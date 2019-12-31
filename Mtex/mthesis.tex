@@ -27,7 +27,7 @@
 %
 % Student Number
 %
-\studentnumber{123456}
+\studentnumber{1811098}
 %
 % 修士論文 か 課題研究 かの選択
 %
@@ -41,7 +41,7 @@
 %
 % 日本語題目 (in LaTeX)
 %
-\title{太陽と月を利用した$\pi$の低速計算アルゴリズムに関する理論的研究}
+\title{ソースコードの類似性に基づいたテストコード\\自動推薦ツール}
 %
 % 日本語題目 (in plain text)
 %
@@ -52,8 +52,7 @@
 %
 % 英語題目 (in LaTeX)
 %
-\etitle{Theoretical Studies on Low-Speed Calculation Algorithms of $\pi$ \\
-Utilizing the Sun and the Moon}
+\etitle{Automatic Test Suite Recommendation System based on Code Clone Detection}
 %
 % 英語題目 (in plain text)
 %
@@ -66,7 +65,7 @@ Utilizing the Sun and the Moon}
 % 日本語氏名 (in LaTeX)
 %   （姓と名の間に空白を入れて下さい）
 %
-\author{奈良 先太郎}
+\author{倉地 亮介}
 %
 % 日本語氏名 (in plain text)
 %
@@ -93,13 +92,13 @@ Utilizing the Sun and the Moon}
 %
 % 論文提出年月日
 %
-\syear{1995}
-\smonth{2}
-\sday{20}
+\syear{2020}
+\smonth{1}
+\sday{28}
 %
 % 専攻の選択
 %
-%\department{\infproc}  % 情報処理学
+\department{\infproc}  % 情報処理学
 %\department{\infsys}    % 情報システム学
 %\department{\bioinf}   % 情報生命科学
 %\department{\infsci}    % 情報科学
@@ -114,10 +113,10 @@ Utilizing the Sun and the Moon}
 %学外審査委員は、大学名を明記する
 %
 % ４人の場合
-\cmembers{○○ ○○ 教授}{（主指導教員）}
-         {○○ ○○ 教授}{（副指導教員）}
-         {○○ ○○ 准教授}{（副指導教員）}
-         {○○ ○○ 准教授}{（△△大学）}
+\cmembers{飯田 元 教授}{（主指導教員）}
+         {井上 美智子 教授}{（副指導教員）}
+         {市川 昊平 准教授}{（副指導教員）}
+         {崔 恩瀞 准教授}{（京都工芸繊維大学）}
 %
 % ３人の場合
 %\cmembers{○○ ○○ 教授}{（主指導教員）}
@@ -216,11 +215,11 @@ Utilizing the Sun and the Moon}
 %   注: (in LaTeX)と同じ場合は記入する必要なし。
 %       この情報は修士論文/課題研究には現れませんが、管理のために必要です。
 %
-\pkeywords{pi, 天文学, 数学, 計算機, アルゴリズム}
+\pkeywords{類似コード検出, 推薦システム, ソフトウェアテスト, 単体テスト}
 %
 % 5 or 6 Keywords (in LaTeX)
 %
-\ekeywords{$\pi$, astronomy, mathematics, computer, algorithm}
+\ekeywords{clone detection, recommendation system, software testing, unit test}
 %
 % 5 or 6 Keywords (in plain text)
 %
@@ -283,23 +282,7 @@ Utilizing the Sun and the Moon}
 %  注: 　行の先頭が\\で始まらないようにすること。
 %
 \eabstract{
-The calculation of $\pi$ has been paid much attention since human beings
-appeared on the earth.
-
-This thesis presents novel low-speed algorithms to calculate
-$\pi$ utilizing the sun and the moon.
-
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
+Automatically generated tests tend to be less read-able and maintainable since they often do not consider thelatent objective of the target code. Reusing existing tests mighthelp address this problem. To this end, we present SuiteRec, asystem that recommends reusable test suites based on code clonedetection. Given a java method, SuiteRec searches for its codeclones from a code base collected from open-source projects,and then recommends test suites of the clones. It also providesthe ranking of the recommended test suites computed basedon the similarity between the input code and the cloned code.We evaluate SuiteRec with a human study of ten students. Theresults indicate that SuiteRec successfully recommends reusabletest suites.
 }
 %
 % Abstract (in plain text)
