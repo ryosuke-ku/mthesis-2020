@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  1 JAN 2020 21:58
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  4 JAN 2020 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -69,66 +69,66 @@ File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ) (./mthesis.aux)
 \openout1 = `mthesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 315.
-LaTeX Font Info:    ... okay on input line 315.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 300.
+LaTeX Font Info:    ... okay on input line 300.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 319.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 304.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 319.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 304.
 [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 320.
+(Font)              <12> on input line 305.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 320.
+(Font)              <8> on input line 305.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 320.
+(Font)              <6> on input line 305.
  [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 321.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 321.
+(Font)              <17.28> on input line 306.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 306.
 
  (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 321.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 306.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 321.
+(Font)              <7> on input line 306.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 321.
+(Font)              <5> on input line 306.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 321.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 306.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 321.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 306.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 321.
- [1]
-Underfull \hbox (badness 1033) in paragraph at lines 322--322
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 306.
+ [1] [2]
+Underfull \hbox (badness 1033) in paragraph at lines 307--307
 [][]\OT1/cmr/m/n/10 Master's The-sis, Di-vi-sion of In-for-ma-tion Sci-ence, Gr
 ad-u-ate School of Sci-ence and
  []
 
-[2] (./mthesis.toc)
+[3] (./mthesis.toc)
 \tf@toc=\write3
 \openout3 = `mthesis.toc'.
 
- [3] (./mthesis.lof)
+ [4] (./mthesis.lof)
 \tf@lof=\write4
 \openout4 = `mthesis.lof'.
 
@@ -136,11 +136,11 @@ ad-u-ate School of Sci-ence and
 \tf@lot=\write5
 \openout5 = `mthesis.lot'.
 
- [4]
+ [5]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 351.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 336.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 351.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 336.
  [1] [2] [3]
 [4] [5] [6] [7] [8] (./mthesis.bbl
 
@@ -159,10 +159,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  843 strings out of 493230
  10099 string characters out of 6147555
- 79136 words of memory out of 5000000
+ 80362 words of memory out of 5000000
  4857 multiletter control sequences out of 15000+600000
  15127 words of font info for 58 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 26i,8n,20p,751b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,20p,1305b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (16 pages, 27456 bytes).
+Output written on mthesis.dvi (17 pages, 28456 bytes).
