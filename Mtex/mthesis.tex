@@ -4,6 +4,7 @@
 % mthesis.tex
 %
 \documentclass[12pt]{jarticle} % Japanese
+\usepackage{comment}
 %\documentclass[12pt]{article} % English
 % if there are problems in the above regarding fonts, use this
 % \documentclass[UTF8]{ctexart}
@@ -244,22 +245,7 @@ Utilizing the Sun and the Moon}
 %       行の先頭が\\で始まらないようにすること。
 %
 \pabstract{
-人類がこの地上に現われて以来、piの計算には多くの関心が払われてきた。
-
-本論文では、太陽と月を利用してpiを低速に計算するための
-画期的なアルゴリズムを与える。
-
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
-ここには内容梗概を書く。ここには内容梗概を書く。ここには内容梗概を書く。
+ソフトウェアの品質確保の要と言えるソフトウェアテストを支援することは重要である．これまでに，テスト作成コストを削減するために様々な自動生成技術が提案されてきた．しかし，自動生成されたテストコードはテスト対象コードの作成経緯や意図に基づいて生成されていないという性質から後のメンテナンス活動を困難にさせる課題がある．この課題の解決方法として，既存テストの再利用が有効であると考えられる．そこで，本研究ではOSSプロジェクト上に存在する既存の品質が高いテストコード推薦するツールSuiteRecを提案する．SuiteRecは，類似コード検索ツールを用いてクローンペア間でのテスト再利用を考える．開発者から入力コードに対して類似コードを検出し，その類似コードに対応するテストスイートを開発者に推薦する．さらに，テストコードの良くない実装を表す指標を示すテストスメルを開発者に提示し，より品質の高いテストスイートを推薦できるように推薦順位を並び替える．提案ツールの評価では，被験者によってSuiteRecの使用した場合とそうでない場合でテストコードの作成してもらい，テスト作成をどの程度支援できるかを定量的および定性的に評価した．その結果，SuiteRecを利用した場合，(1) 条件分岐が多いプログラムのテストコードを作成する際にコードカバレッジの向上に効果的であること，(2) 作成したテストコードはテストスメルの数が少なく品質が高いこと，(3) 開発者はテストの作成を容易だと認識し，自身で作成したテストコードに自信が持てることが分かった．
 }
 %
 % Abstract (in LaTeX)
@@ -278,23 +264,7 @@ Automatically generated tests tend to be less read-able and maintainable since t
 %       行の先頭が\\で始まらないようにすること。
 %
 \epabstract{
-The calculation of pi has been paid much attention since human beings
-appeared on the earth.
-
-This thesis presents novel low-speed algorithms to calculate
-pi utilizing the sun and the moon.
-
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-This is a sample abstract. This is a sample abstract. 
-
+Automatically generated tests tend to be less read-able and maintainable since they often do not consider thelatent objective of the target code. Reusing existing tests mighthelp address this problem. To this end, we present SuiteRec, asystem that recommends reusable test suites based on code clonedetection. Given a java method, SuiteRec searches for its codeclones from a code base collected from open-source projects,and then recommends test suites of the clones. It also providesthe ranking of the recommended test suites computed basedon the similarity between the input code and the cloned code.We evaluate SuiteRec with a human study of ten students. Theresults indicate that SuiteRec successfully recommends reusabletest suites.
 }
 %%%%%%%%%%%%%%%%%%%%%%%%% document starts here %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -319,18 +289,14 @@ This is a sample abstract. This is a sample abstract.
 \newpage
 \section{はじめに}
 \pagenumbering{arabic}
+近年，ソフトウェアに求められる要件が高度化・多様化する一方，ユーザからはソフトウェアの品質確保やコスト削減に対する要求も増加している[1]．その中でも開発全体のコストに占める割合が大きく，品質確保の要ともいえるソフトウェアテストを支援する技術への関心が高まっている\cite{b20}．しかし，現状では単体テスト作成作業の大部分が人手で行われており，多くのテストを作成しようとするとそれに比例してコストも増加してしまう．このような背景から，ソフトウェアの品質を確保しつつコスト削減を達成するために，様々な自動化技術が提案されている\cite{b3},\cite{b16},\cite{b17},\cite{b18},\cite{b19}．
 
-はじめに はじめに はじめに はじめに はじめに はじめに はじめに はじめに 
-はじめに はじめに はじめに はじめに はじめに はじめに はじめに はじめに 
-はじめに はじめに はじめに はじめに はじめに はじめに はじめに はじめに 
+既存研究で提案されているEvoSuite\cite{b3}は，単体テスト自動生成における最先端のツールである．EvoSuiteは，対象コードを静的解析しプログラムを記号値で表現する．そして，対象コードの制御パスを通るような条件を集め，条件を満たす具体値を生成する．単体テストを自動生成することで，開発者は手作業での作成時間が自動生成によって節約することができ，またコードカバレッジを向上することができる．しかし，既存ツールによって自動生成されるテストコードは対象のコードの作成経緯や意図に基づいて生成されていないという性質から可読性が低く開発者に信用されていないことや後の保守作業を困難にするという課題がある\cite{b13},\cite{b14},\cite{b15}．このことは、自動生成ツールの実用的な利用の価値に疑問を提示させる．テストが失敗するたびに，開発者はテスト対象のプログラム内での不具合を原因を特定するまたは，テスト自体を更新する必要があるかどうかを判断する必要がある．自動生成されたテストは，自動生成によって得られる時間の節約よりも読みづらく，保守作業に助けになるというよりかむしろ邪魔するという結果が報告されている\cite{b1}．
 
-はじめに はじめに はじめに はじめに はじめに はじめに はじめに はじめに 
-はじめに はじめに はじめに はじめに はじめに はじめに はじめに はじめに 
-はじめに はじめに はじめに はじめに はじめに はじめに はじめに はじめに 
 
-\ref{kako}節では、過去における研究について述べ、
-\ref{kadai}章では、現状と今後の課題について述べる。
-また、付録\ref{omake1}におまけその１を添付する。
+%\ref{kako}節では、過去における研究について述べ、
+%\ref{kadai}章では、現状と今後の課題について述べる。
+%また、付録\ref{omake1}におまけその１を添付する。
 
 
 \subsection{過去における研究}
