@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  4 JAN 2020 19:08
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  4 JAN 2020 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -33,26 +33,12 @@ LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 \CommentStream=\write3
 
 Excluding comment 'comment')
-(c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-) (./naist-jmthesis.sty
-Master's Thesis / Master's Report Style for Division of Information Science, Sc
-ience and Technology, NAIST
-(./naist-mcommon.sty
-\nendo=\count93
-\curmin=\count94
-\hour=\count95
-\onehour=\count96
-\curhour=\count97
-))
 (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks15
 )
 (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
@@ -63,67 +49,82 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
 
-(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
-) (./mthesis.aux)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (./naist-jmthesis.sty
+Master's Thesis / Master's Report Style for Division of Information Science, Sc
+ience and Technology, NAIST
+(./naist-mcommon.sty
+\nendo=\count93
+\curmin=\count94
+\hour=\count95
+\onehour=\count96
+\curhour=\count97
+)) (./mthesis.aux)
 \openout1 = `mthesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 270.
-LaTeX Font Info:    ... okay on input line 270.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 274.
+LaTeX Font Info:    ... okay on input line 274.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 274.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 278.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 274.
-[1
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 278.
+ [1
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 275.
+(Font)              <12> on input line 279.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 275.
+(Font)              <8> on input line 279.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 275.
+(Font)              <6> on input line 279.
  [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 276.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 276.
+(Font)              <17.28> on input line 280.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 280.
 
- (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 276.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 280.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 276.
+(Font)              <7> on input line 280.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 276.
+(Font)              <5> on input line 280.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 276.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 280.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 276.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 280.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 276.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 280.
  [1] [2]
-Underfull \hbox (badness 1033) in paragraph at lines 277--277
+Underfull \hbox (badness 1033) in paragraph at lines 281--281
 [][]\OT1/cmr/m/n/10 Master's The-sis, Di-vi-sion of In-for-ma-tion Sci-ence, Gr
 ad-u-ate School of Sci-ence and
  []
@@ -142,44 +143,51 @@ ad-u-ate School of Sci-ence and
 
  [5]
 
-LaTeX Warning: Citation `b20' on page 1 undefined on input line 292.
+LaTeX Warning: Citation `b20' on page 1 undefined on input line 296.
 
 
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 292.
+LaTeX Warning: Citation `b3' on page 1 undefined on input line 296.
 
 
-LaTeX Warning: Citation `b16' on page 1 undefined on input line 292.
+LaTeX Warning: Citation `b16' on page 1 undefined on input line 296.
 
 
-LaTeX Warning: Citation `b17' on page 1 undefined on input line 292.
+LaTeX Warning: Citation `b17' on page 1 undefined on input line 296.
 
 
-LaTeX Warning: Citation `b18' on page 1 undefined on input line 292.
+LaTeX Warning: Citation `b18' on page 1 undefined on input line 296.
 
 
-LaTeX Warning: Citation `b19' on page 1 undefined on input line 292.
+LaTeX Warning: Citation `b19' on page 1 undefined on input line 296.
 
 
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 294.
+LaTeX Warning: Citation `b3' on page 1 undefined on input line 298.
 
 
-LaTeX Warning: Citation `b13' on page 1 undefined on input line 294.
+LaTeX Warning: Citation `b13' on page 1 undefined on input line 298.
 
 
-LaTeX Warning: Citation `b14' on page 1 undefined on input line 294.
+LaTeX Warning: Citation `b14' on page 1 undefined on input line 298.
 
 
-LaTeX Warning: Citation `b15' on page 1 undefined on input line 294.
+LaTeX Warning: Citation `b15' on page 1 undefined on input line 298.
 
 
-LaTeX Warning: Citation `b1' on page 1 undefined on input line 294.
+LaTeX Warning: Citation `b1' on page 1 undefined on input line 298.
 
 [1] [2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 307.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 311.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 307.
- [3] [4] [5] [6] [7] [8] [9] [10] (./mthesis.bbl
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 311.
+File: test-task.pdf Graphic file (type pdf)
+<test-task.pdf>
+
+Overfull \hbox (5.24146pt too wide) in paragraph at lines 327--334
+[][][][] 
+ []
+
+[3] [4] [5] [6] [7] [8] [9] [10] [11] (./mthesis.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 (Font)              using `JT1/gt/m/n' instead on input line 6.
@@ -188,7 +196,7 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 6.
 
-) [11] [12] (./mthesis.aux)
+) [12] [13] (./mthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -197,12 +205,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 882 strings out of 493230
- 10732 string characters out of 6147555
- 82251 words of memory out of 5000000
- 4891 multiletter control sequences out of 15000+600000
+ 911 strings out of 493230
+ 11126 string characters out of 6147555
+ 82612 words of memory out of 5000000
+ 4916 multiletter control sequences out of 15000+600000
  15434 words of font info for 59 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 26i,8n,20p,1307b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,9n,21p,1307b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (19 pages, 36160 bytes).
+Output written on mthesis.dvi (20 pages, 37896 bytes).
