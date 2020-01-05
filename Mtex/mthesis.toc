@@ -4,7 +4,7 @@
 \contentsline {subsection}{\numberline {2.2}テストコード自動生成技術}{4}% 
 \contentsline {subsection}{\numberline {2.3}テストスメル}{5}% 
 \contentsline {subsubsection}{\numberline {2.3.1}テストスメルの種類}{5}% 
-\contentsline {subsection}{\numberline {2.4}過去における研究}{5}% 
+\contentsline {subsection}{\numberline {2.4}過去における研究}{6}% 
 \contentsline {subsection}{\numberline {2.5}研究の目的と意義}{6}% 
 \contentsline {section}{\numberline {3.}現状と今後の課題}{11}% 
 \contentsline {section}{謝辞}{12}% 
