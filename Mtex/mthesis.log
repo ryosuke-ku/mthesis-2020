@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  5 JAN 2020 10:31
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  5 JAN 2020 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -187,7 +187,32 @@ Overfull \hbox (5.24146pt too wide) in paragraph at lines 327--334
 [][][][] 
  []
 
-[4] [5] [6] [7] [8] [9] [10] [11] [12] (./mthesis.bbl
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
+[]\OT1/cmr/bx/n/12 Assertion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--369
+[]\OT1/cmr/bx/n/12 Conditional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+[]\OT1/cmr/bx/n/12 Exception
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--372
+[]\OT1/cmr/bx/n/12 Mystery
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 364--374
+[][][][] 
+ []
+
+[6] [7] [8] (./mthesis.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 (Font)              using `JT1/gt/m/n' instead on input line 6.
@@ -196,24 +221,21 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 6.
 
-) [13] [14] (./mthesis.aux)
+) [9] [10] [11] (./mthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 911 strings out of 493230
- 11132 string characters out of 6147555
+ 912 strings out of 493230
+ 11151 string characters out of 6147555
  82655 words of memory out of 5000000
- 4916 multiletter control sequences out of 15000+600000
+ 4917 multiletter control sequences out of 15000+600000
  15434 words of font info for 59 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  26i,9n,21p,1341b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (21 pages, 44744 bytes).
+Output written on mthesis.dvi (18 pages, 31396 bytes).

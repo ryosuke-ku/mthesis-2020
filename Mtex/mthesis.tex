@@ -356,7 +356,22 @@ CTは，パラメータ間の相互作用に起因する不具合を効果的に
 \subsubsection{テストスメルの種類}
 この節では，本研究で扱う6種類のテストスメルを紹介する．
 
+\newpage
 
+\begin{table*}[t]
+\caption{テストスメルの種類}
+\label{testsmell-variety}
+\begin{tabular}{|p{3cm}|p{11.5cm}|}
+\hline
+\textbf{テストスメル}                   & \textbf{説明}                                                                                                       \\ \hline
+\textbf{Assertion Roulette}        & テストメソッド内に複数のassert文が存在する．各assert文は異なる条件をテストするが，開発者へ各assert文のエラーメッセージは提供されない，そのためassert文の1つが失敗した場合，失敗の原因を特定するが困難である． \\ \hline
+\textbf{Default Test} & テストメソッド名が初期状態(意味のない名前)である．テスティングフレームを使用した場合，クラス・メソッド名が初期状態である．テストコードの可読性向上のために適切な名前に変更する必要がある．\\ \hline
+\textbf{Conditional Test Logic}            & テストメソッド内に複数の制御文が含まれている．テストの成功・失敗は制御フロー内にあるassert文に基づくためテスト結果を予測できない．また，条件分岐が多く複雑なテストコードは可読性を下げる． \\ \hline
+\textbf{Eager Test}            & テスト対象クラスの複数のメソッドを呼び出す．1つのテストメソッドで複数のメソッドを呼び出すと，他の開発者は何をテストしているかについて混乱が生じる． \\ \hline
+\textbf{Exception Handling}            & テストメソッド内に例外処理が含まれている．例外処理は，対象コードに記述すべきで，テストコード内では正しく例外処理が行われるかを確認すべきである． \\ \hline
+\textbf{Mystery Guest}            & テストメソッド内で，外部リソースを利用する．テストメソッド内だけでなく外部ファイルなど，外部リソースを使用すると見えない依存関係が生じる．何らかの影響で外部ファイルを削除されるとテストが失敗してしまう． \\ \hline
+\end{tabular}
+\end{table*}
 
 
 
@@ -364,40 +379,9 @@ CTは，パラメータ間の相互作用に起因する不具合を効果的に
 \label{kako}
 
 
-過去における研究としては\cite{alex_nips12}などがある。
-
-過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
-過去における研究 過去における研究 過去における研究 過去における研究 
 
 \subsection{研究の目的と意義}
 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
 
 \begin{figure}
 \centerline{ここに図を書く}
@@ -409,145 +393,19 @@ CTは，パラメータ間の相互作用に起因する不具合を効果的に
 \caption{これは表の例}
 \end{table}
 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-研究の目的と意義 研究の目的と意義 研究の目的と意義 研究の目的と意義 
-
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
-研究の目的と意義研究の目的と意義研究の目的と意義研究の目的と意義 
 
 
 \newpage
 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
-This page is written in English. This page is written in English. 
 
 
 \newpage
 \section{現状と今後の課題}
 \label{kadai}
 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
-現状と今後の課題 現状と今後の課題 現状と今後の課題 現状と今後の課題 
 
 %
 % 謝辞
@@ -573,10 +431,7 @@ Thank you. Thank you.
 \section{おまけその１}
 \label{omake1}
 
-これはおまけです。これはおまけです。これはおまけです。これはおまけです。
-これはおまけです。これはおまけです。これはおまけです。これはおまけです。
-これはおまけです。これはおまけです。これはおまけです。これはおまけです。
-これはおまけです。これはおまけです。これはおまけです。これはおまけです。
+
 
 \begin{figure}
 \centerline{これはおまけの図です。}
@@ -586,10 +441,7 @@ Thank you. Thank you.
 
 \section{おまけその２}
 
-これもおまけです。これもおまけです。これもおまけです。これもおまけです。
-これもおまけです。これもおまけです。これもおまけです。これもおまけです。
-これもおまけです。これもおまけです。これもおまけです。これもおまけです。
-これもおまけです。これもおまけです。これもおまけです。これもおまけです。
+
 
 \end{document}
 

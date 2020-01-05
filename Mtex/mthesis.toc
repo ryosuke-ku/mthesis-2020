@@ -6,9 +6,9 @@
 \contentsline {subsubsection}{\numberline {2.3.1}テストスメルの種類}{5}% 
 \contentsline {subsection}{\numberline {2.4}過去における研究}{6}% 
 \contentsline {subsection}{\numberline {2.5}研究の目的と意義}{6}% 
-\contentsline {section}{\numberline {3.}現状と今後の課題}{11}% 
-\contentsline {section}{謝辞}{12}% 
-\contentsline {section}{参考文献}{13}% 
-\contentsline {section}{付録}{14}% 
-\contentsline {section}{\numberline {A.}おまけその１}{14}% 
-\contentsline {section}{\numberline {B.}おまけその２}{14}% 
+\contentsline {section}{\numberline {3.}現状と今後の課題}{7}% 
+\contentsline {section}{謝辞}{8}% 
+\contentsline {section}{参考文献}{9}% 
+\contentsline {section}{付録}{10}% 
+\contentsline {section}{\numberline {A.}おまけその１}{10}% 
+\contentsline {section}{\numberline {B.}おまけその２}{10}% 
