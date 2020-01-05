@@ -10,6 +10,7 @@
 \contentsline {subsubsection}{\numberline {2.4.4}Eager Test}{9}% 
 \contentsline {subsubsection}{\numberline {2.4.5}Exception Handling}{9}% 
 \contentsline {subsubsection}{\numberline {2.4.6}Mystery Guest}{11}% 
-\contentsline {subsection}{\numberline {2.5}コードクローン}{12}% 
-\contentsline {subsubsection}{\numberline {2.5.1}コードクローンの分類}{12}% 
-\contentsline {subsubsection}{\numberline {2.5.2}コードクローン検出技術}{12}% 
+\contentsline {subsection}{\numberline {2.5}テストスメルがソフトウェア保守にもたらす影響}{11}% 
+\contentsline {subsection}{\numberline {2.6}コードクローン}{12}% 
+\contentsline {subsubsection}{\numberline {2.6.1}コードクローンの分類}{12}% 
+\contentsline {subsubsection}{\numberline {2.6.2}コードクローン検出技術}{12}% 
