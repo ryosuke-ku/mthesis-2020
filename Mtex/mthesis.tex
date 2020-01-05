@@ -434,25 +434,25 @@ Eager Testは，テストメソッド内でテスト対象クラスのメソッ�
 
 \subsubsection{Exception Handling}
 
-テストメソッド内に例外処理が含まれている．例外処理は，対象コードに記述すべきで，テストコード内では正しく例外処理が行われるかを確認すべきである．
+Exception Handlingは，テストメソッド内に例外処理が含まれている場合発生する(図\ref{EH})．例外処理は，対象コードに記述すべきで，テストコード内では正しく例外処理が行われるかを確認すべきである．
 
 \begin{figure}[htbp]
   \begin{center}
     \includegraphics[clip,width=15cm]{EH.pdf}
     \caption{Exception Handlingの例}
-    \label{AR}
+    \label{EH}
   \end{center}
 \end{figure}
 
 
 \subsubsection{Mystery Guest}
-テストメソッド内で，外部リソースを利用する．テストメソッド内だけでなく外部ファイルなど，外部リソースを使用すると見えない依存関係が生じる．何らかの影響で外部ファイルを削除されるとテストが失敗してしまう．
+Mystery Guestは，図\ref{MG}のようにテストメソッド内で外部リソースを利用した場合発生する．テストメソッド内だけでなく外部ファイルなど，外部リソースを使用すると見えない依存関係が生じる．何らかの影響で外部ファイルを削除されるとテストが失敗してしまう．
 
 \begin{figure}[htbp]
   \begin{center}
     \includegraphics[clip,width=15cm]{MG.pdf}
-    \caption{Assertion Rouletteの例}
-    \label{AR}
+    \caption{Mystery Guestの例}
+    \label{MG}
   \end{center}
 \end{figure}
 
