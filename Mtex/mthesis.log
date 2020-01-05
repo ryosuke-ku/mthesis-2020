@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  5 JAN 2020 18:00
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  5 JAN 2020 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -236,7 +236,7 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 453--454
  [] 
  []
 
-Excluding 'comment' comment. [11] Excluding 'comment' comment. [12]
+Excluding 'comment' comment. [11] [12] Excluding 'comment' comment. [13]
 (./mthesis.aux)
 
 LaTeX Warning: There were undefined references.
@@ -251,4 +251,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  26i,9n,21p,1341b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (19 pages, 40504 bytes).
+Output written on mthesis.dvi (20 pages, 42880 bytes).
