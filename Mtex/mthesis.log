@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  6 JAN 2020 12:43
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  6 JAN 2020 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -70,7 +70,11 @@ ience and Technology, NAIST
 \hour=\count95
 \onehour=\count96
 \curhour=\count97
-)) (./mthesis.aux)
+)) (./mthesis.aux
+
+LaTeX Warning: Label `map' multiply defined.
+
+)
 \openout1 = `mthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 274.
@@ -107,8 +111,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 280.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 280.
 
-
-(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+ (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -248,18 +251,49 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 524--525
 
 LaTeX Warning: Citation `b2' on page 15 undefined on input line 545.
 
-[15] Excluding 'comment' comment. [16] (./mthesis.aux)
+[15] [16]
+
+LaTeX Warning: Reference `fig2' on page 17 undefined on input line 574.
+
+
+LaTeX Warning: Citation `b22' on page 17 undefined on input line 574.
+
+File: mapping.pdf Graphic file (type pdf)
+<mapping.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 578--579
+ [] 
+ []
+
+
+LaTeX Warning: Citation `b10' on page 17 undefined on input line 586.
+
+
+LaTeX Warning: Citation `b9' on page 17 undefined on input line 586.
+
+[17]
+File: SuiteRec.pdf Graphic file (type pdf)
+<SuiteRec.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 601--602
+ [] 
+ []
+
+[18] Excluding 'comment' comment. [19] [20] (./mthesis.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 940 strings out of 493230
- 11606 string characters out of 6147555
+ 950 strings out of 493230
+ 11781 string characters out of 6147555
  82655 words of memory out of 5000000
- 4933 multiletter control sequences out of 15000+600000
+ 4939 multiletter control sequences out of 15000+600000
  15087 words of font info for 58 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  26i,9n,21p,1341b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (23 pages, 53916 bytes).
+Output written on mthesis.dvi (27 pages, 61768 bytes).
