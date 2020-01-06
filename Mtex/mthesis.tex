@@ -604,6 +604,14 @@ Step3では，Step2で検索されたテストスイート内のテストスメ�
   \end{center}
 \end{figure}
 
+ \begin{enumerate}
+\renewcommand{\labelenumi}{(\arabic{enumi})}
+\item{\textbf{Input Code Fragment.}開発者が入力した関数単位のプロダクションコードが表示される．}
+\item{\textbf{Similarity Code Fragment.}入力コードに対する類似コードが表示される．入力コードと類似度コードの違いが分かるように差分がハイライトされる．}
+\item{\textbf{Degree of similarity.}入力コードと類似コードの類似度が表示される．類似度はNICADで用いられている計算方法Unique Percentage of Items(UPI)を採用した．}
+\item{\textbf{Test Smells.}推薦されるテストスイート内にテストスメルが含まれている場合，そのテストスメルがオレンジ色にハイライトされ開発者にテストスメルの存在を提示される．}
+\item{\textbf{Recommend Test Suites.}推薦されるテストスイートが表示される．また，どのプロジェクトからテストコードが参照されたのかを示すためにファイルパスも表示される．}
+\end{enumerate}
 
 \begin{comment}
 
