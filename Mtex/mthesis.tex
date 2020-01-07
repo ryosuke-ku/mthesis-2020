@@ -833,7 +833,37 @@ RQ5では，SuiteRecから推薦されるテストスイートのランキング
 \end{center}
 \end{table}
 
+\subsection{結果}
+本節では，10人の被験者によるSuiteRecの定量的および定性的評価の結果を報告する．本章の前半で説明した，5つのリサーチクエスチョンについての分析結果を提示する．
 
+\subsubsection{RQ1: {\sf SuiteRec}は高いカバレッジを持つテストコードの作成を支援できるか？}
+
+RQ1では，{\sf SuiteRec}を使用した場合とそうでない場合の被験者が作成したテストコードのカバレッジを比較する．本実験では，被験者によって提出されたテストスイートの命令網羅と分岐網羅の2種類のコードカバレッジの計算した．カバレッジの計算には統合開発環境Eclipse\cite{b21}のプラグインとして搭載されているEclEmma\cite{b11}を利用した．図\ref{C0}と図\ref{C1}はそれぞれ被験者による命令網羅と分岐網羅の平均カバレッジを示す．結果として，命令網羅の割合は3つのタスクすべてにおいてツールを利用した場合とそうでない場合で網羅率にほとんど違いはなく，どのタスクも網羅率が90\%を超えている．図\ref{fig6}の分岐網羅についても分岐数が少ないタスク1とタスク2についてはツールを使用した場合とそうでない場合でほとんど差がないことが分かる．しかし，プロダクションコードの分岐数が最も多いタスク3については，実験者の平均カバレッジに10\%以上の差があることが分かった．この結果は，分岐が多いプロダクションコードのテストコードを作成する際に，{\sf SuiteRec}で推薦されるテストコードは網羅率を向上するのに役に立つことが考えられる．実際に実験後のアンケートの記述欄には，推薦コードによって見落としていたテスト項目をフォローすることができたという報告が複数存在した．
+
+\begin{figure}[htbp]
+ \begin{minipage}{0.5\hsize}
+  \begin{center}
+   \includegraphics[width=70mm]{C0.pdf}
+  \end{center}
+  \caption{命令網羅の平均カバレッジ}
+  \label{C0}
+ \end{minipage}
+ \begin{minipage}{0.5\hsize}
+  \begin{center}
+   \includegraphics[width=70mm]{C1.pdf}
+  \end{center}
+  \caption{分岐網羅の平均カバレッジ}
+  \label{C1}
+ \end{minipage}
+\end{figure}
+
+
+
+
+\subsubsection{RQ2: {\sf SuiteRec}はテストコードの作成時間を削減できるか？}
+\subsubsection{RQ3: {\sf SuiteRec}は，高い品質を持つテストコードの作成を支援できるか？}
+\subsubsection{RQ4: {\sf SuiteRec}の利用は，開発者のテストコード作成タスクの認識にどう影響する}
+\subsubsection{RQ5: {\sf SuiteRec}は，開発者が求める順番でテストスイートをランキングできるか？}
 
 \begin{comment}
 
