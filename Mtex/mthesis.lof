@@ -1,11 +1,11 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces テストにおけるタスク}}{3}% 
-\contentsline {figure}{\numberline {2}{\ignorespaces SBSTによるテストケース生成の例}}{6}% 
-\contentsline {figure}{\numberline {3}{\ignorespaces Assertion Rouletteの例}}{8}% 
-\contentsline {figure}{\numberline {4}{\ignorespaces Default Testの例}}{8}% 
-\contentsline {figure}{\numberline {5}{\ignorespaces Conditional Test Logicの例}}{9}% 
-\contentsline {figure}{\numberline {6}{\ignorespaces Eager Testの例}}{10}% 
-\contentsline {figure}{\numberline {7}{\ignorespaces Exception Handlingの例}}{10}% 
-\contentsline {figure}{\numberline {8}{\ignorespaces Mystery Guestの例}}{11}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces テストにおけるタスク}}{5}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Assertion Rouletteの例}}{7}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Default Testの例}}{7}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces Conditional Test Logicの例}}{8}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Eager Testの例}}{9}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces Exception Handlingの例}}{9}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces Mystery Guestの例}}{10}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces SBSTによるテストケース生成の例}}{13}% 
 \contentsline {figure}{\numberline {9}{\ignorespaces 提案手法の概要}}{15}% 
-\contentsline {figure}{\numberline {10}{\ignorespaces テストコードと対象コードの対応付け}}{18}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces テストコードと対象コードの対応付け}}{17}% 
 \contentsline {figure}{\numberline {11}{\ignorespaces SuiteRecから推薦されるテストコード}}{20}% 

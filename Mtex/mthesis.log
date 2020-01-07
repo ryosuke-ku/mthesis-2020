@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  6 JAN 2020 17:06
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  6 JAN 2020 21:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -70,11 +70,7 @@ ience and Technology, NAIST
 \hour=\count95
 \onehour=\count96
 \curhour=\count97
-)) (./mthesis.aux
-
-LaTeX Warning: Label `map' multiply defined.
-
-)
+)) (./mthesis.aux)
 \openout1 = `mthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 274.
@@ -111,7 +107,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 280.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 280.
 
- (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -183,117 +180,135 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 311.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 311.
+ [3] [4]
 File: test-task.pdf Graphic file (type pdf)
 <test-task.pdf>
- [3]
-Overfull \hbox (5.24146pt too wide) in paragraph at lines 327--334
+
+Overfull \hbox (5.24146pt too wide) in paragraph at lines 354--361
 [][][][] 
  []
 
-[4]
-File: SBST.pdf Graphic file (type pdf)
-<SBST.pdf>
- [5] [6]
+[5]
 File: AR.pdf Graphic file (type pdf)
 <AR.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 392--393
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 388--389
+ [] 
+ []
+
+[6]
+File: DT.pdf Graphic file (type pdf)
+<DT.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 399--400
  [] 
  []
 
 [7]
-File: DT.pdf Graphic file (type pdf)
-<DT.pdf>
-
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 405--406
- [] 
- []
-
-[8]
 File: CTL.pdf Graphic file (type pdf)
 <CTL.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 417--418
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 411--412
  [] 
  []
 
 File: ET.pdf Graphic file (type pdf)
 <ET.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 429--430
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 422--423
  [] 
  []
 
 File: EH.pdf Graphic file (type pdf)
 <EH.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 441--442
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 433--434
  [] 
  []
 
-[9] [10]
 File: MG.pdf Graphic file (type pdf)
 <MG.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 453--454
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 444--445
  [] 
  []
 
-[11] Excluding 'comment' comment. [12] [13]
+[8] [9] Excluding 'comment' comment. [10] Excluding 'comment' comment. [11]
+File: SBST.pdf Graphic file (type pdf)
+<SBST.pdf>
+
+[12] [13]
 File: SuiteRec-outline.pdf Graphic file (type pdf)
 <SuiteRec-outline.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 524--525
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 599--600
  [] 
  []
 
 [14]
 
-LaTeX Warning: Citation `b2' on page 15 undefined on input line 545.
+LaTeX Warning: Citation `b2' on page 15 undefined on input line 620.
 
 [15] [16]
 
-LaTeX Warning: Reference `fig2' on page 17 undefined on input line 574.
+LaTeX Warning: Reference `fig2' on page 17 undefined on input line 649.
 
 
-LaTeX Warning: Citation `b22' on page 17 undefined on input line 574.
+LaTeX Warning: Citation `b22' on page 17 undefined on input line 649.
 
 File: mapping.pdf Graphic file (type pdf)
 <mapping.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 578--579
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 653--654
  [] 
  []
 
 
-LaTeX Warning: Citation `b10' on page 17 undefined on input line 586.
+LaTeX Warning: Citation `b10' on page 17 undefined on input line 661.
 
 
-LaTeX Warning: Citation `b9' on page 17 undefined on input line 586.
+LaTeX Warning: Citation `b9' on page 17 undefined on input line 661.
 
-[17] [18]
+[17]
+Overfull \hbox (5.18585pt too wide) in paragraph at lines 676--677
+\OT1/cmr/m/n/12 Step3 \JY1/mc/m/n/12 で検出されたテストスメルの数を基に計算する
+ ． 我 々 は ， 以前の調査 \OT1/cmr/m/n/12 [fose2019]
+ []
+
+[18]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 678.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 678.
+
 File: SuiteRec.pdf Graphic file (type pdf)
 <SuiteRec.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 603--604
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 690--691
  [] 
  []
 
-Excluding 'comment' comment. [19] [20] (./mthesis.aux)
+[19] [20] Excluding 'comment' comment. [21] (./mthesis.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 950 strings out of 493230
- 11781 string characters out of 6147555
+ 957 strings out of 493230
+ 11856 string characters out of 6147555
  82663 words of memory out of 5000000
- 4939 multiletter control sequences out of 15000+600000
- 15087 words of font info for 58 fonts, out of 8000000 for 9000
+ 4945 multiletter control sequences out of 15000+600000
+ 15434 words of font info for 59 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  26i,9n,21p,1341b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (27 pages, 65152 bytes).
+Output written on mthesis.dvi (28 pages, 65372 bytes).

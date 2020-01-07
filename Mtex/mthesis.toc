@@ -1,21 +1,15 @@
 \contentsline {section}{\numberline {1.}はじめに}{1}% 
 \contentsline {section}{\numberline {2.}背景}{3}% 
-\contentsline {subsection}{\numberline {2.1}ソフトウェアテスト}{3}% 
-\contentsline {subsection}{\numberline {2.2}テストコード自動生成技術}{4}% 
-\contentsline {subsection}{\numberline {2.3}既存の自動生成ツールにおける課題}{6}% 
-\contentsline {subsection}{\numberline {2.4}テストスメル}{7}% 
-\contentsline {subsubsection}{\numberline {2.4.1}Assertion Roulette}{7}% 
-\contentsline {subsubsection}{\numberline {2.4.2}Default Test}{8}% 
-\contentsline {subsubsection}{\numberline {2.4.3}Conditional Test Logic}{9}% 
-\contentsline {subsubsection}{\numberline {2.4.4}Eager Test}{9}% 
-\contentsline {subsubsection}{\numberline {2.4.5}Exception Handling}{9}% 
-\contentsline {subsubsection}{\numberline {2.4.6}Mystery Guest}{11}% 
-\contentsline {subsection}{\numberline {2.5}テストスメルがソフトウェア保守にもたらす影響}{11}% 
-\contentsline {subsection}{\numberline {2.6}コードクローン}{13}% 
-\contentsline {subsubsection}{\numberline {2.6.1}コードクローンの分類}{13}% 
-\contentsline {subsubsection}{\numberline {2.6.2}コードクローン検出技術}{13}% 
+\contentsline {subsection}{\numberline {2.1}コードクローン}{3}% 
+\contentsline {subsubsection}{\numberline {2.1.1}コードクローンの分類}{3}% 
+\contentsline {subsubsection}{\numberline {2.1.2}コードクローン検出技術}{3}% 
+\contentsline {subsection}{\numberline {2.2}ソフトウェアテスト}{4}% 
+\contentsline {subsection}{\numberline {2.3}テストスメル}{6}% 
+\contentsline {subsection}{\numberline {2.4}テストスメルがソフトウェア保守にもたらす影響}{10}% 
+\contentsline {subsection}{\numberline {2.5}テストコード自動生成技術}{11}% 
+\contentsline {subsection}{\numberline {2.6}既存の自動生成ツールにおける課題}{13}% 
 \contentsline {section}{\numberline {3.}テストコード推薦手法}{14}% 
-\contentsline {subsection}{\numberline {3.1}Step1: 類似コード検出}{16}% 
-\contentsline {subsection}{\numberline {3.2}Step2: テストコードの検索}{17}% 
+\contentsline {subsection}{\numberline {3.1}Step1: 類似コード検出}{15}% 
+\contentsline {subsection}{\numberline {3.2}Step2: テストコードの検索}{16}% 
 \contentsline {subsection}{\numberline {3.3}Step3: テストスメルの検出}{18}% 
-\contentsline {subsection}{\numberline {3.4}Step4: 推薦されるテストコードのランキング}{19}% 
+\contentsline {subsection}{\numberline {3.4}Step4: 推薦されるテストコードのランキング}{18}% 
