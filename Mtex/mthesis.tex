@@ -6,7 +6,7 @@
 \documentclass[12pt]{jarticle} % Japanese
 \usepackage{comment}
 \usepackage[dvipdfmx]{graphicx}
-
+\usepackage{ascmac}
 
 
 %\documentclass[12pt]{article} % English
@@ -727,8 +727,75 @@ RQ5では，SuiteRecから推薦されるテストスイートのランキング
 以降，4.1節では，本実験に参加した被験者について説明する．4.2節では，被験者に実施してもらう実験タスクについて説明する．最後に4.3節で，実験手順について説明する．
 
 \subsection{被験者の選択}
+
+評価実験のために，基本的なプログラミングスキルを保有し，ソフトウェアテストに関する知識を持つ学生を募集した．そして，情報科学を専攻するの修士過程の学生10人対して実験を実施した．事前アンケートによると90\%以上の学生が2年以上のプログラミング経験があり，80\%以上の被験者が1年以上のJava言語の経験があった．また，すべての学生が授業などの講義でソフトウェアテストに関する基本的な知識を持っており，80\%以上が単体テストの作成経験があった．
+
 \subsection{実験タスクの作成}
+
+評価実験を実施するために，3つの実験タスクを被験者に割り当てた．以降，これら実験タスクをそれぞれ，タスク1，タスク2，タスク3と呼ぶ．被験者はテストコードを作成するのでプロダクションコードの仕様を十分理解していることが前提になる．そこで，我々はプロダクションコードとして競技プログラミングをよく用いられる典型的な計算問題を選択した．また，各タスクの仕様を確認できるように自然言語で記述された仕様書を用意した．以下に，各タスクの概要を示す．
+
+\begin{description}
+\item[タスク1]~\\
+タスク1は，典型的なFizzBuzzのJavaメソッドに対するテストコードを作成するタスクである．図\ref{E1}は被験者の与えられたタスク1のプロダクションコードである．
+
+
+\begin{itembox}[l]{タスク1のプロダクションコードの仕様}
+整数を入力し，次の条件で結果を返すプログラム
+\begin{itemize}
+\item 3で割り切れる場合，"fizzを返す．
+\item 5で割り切れる場合，"buzz"を返す．
+\item 3と5両方で割り切れる場合，"fizzbuzz"を返す．
+\item 入力が自然数でない場合，"Not Natural Number"を返す．
+\item 上記以外は，入力数値をString型で返す．
+\end{itemize}
+\end{itembox}
+
+\begin{figure}[htbp]
+  \begin{center}
+    \includegraphics[clip,width=10cm]{E1.pdf}
+    \caption{タスク1のプロダクションコード}
+    \label{E1}
+  \end{center}
+\end{figure}
+
+\item[タスク2]~\\
+タスク2は，第1引数に応じて，残り3つの引数の計算方法を変更し結果を出力するJavaメソッドのテストコードを作成するタスクである．図\ref{E2}は，タスク2のプロダクションコードである．
+
+\begin{itembox}[l]{タスク2のプロダクションコードの仕様}
+第1引数に応じて，残り3つの引数の計算方法を変更し結果を返す
+\begin{itemize}
+\item 1つの引数が``Medium''の場合、残り3引数の中央値を返す．
+\item 1つの引数が``max'の場合、残り3引数の最大値を返す
+\item 1つの引数が``min''の場合、残り3引数の最小値を返す．
+\item 1つの引数が上記以外の場合、-1を返す．
+\end{itemize}
+\end{itembox}
+
+\begin{figure}[htbp]
+  \begin{center}
+    \includegraphics[clip,width=13cm]{E2.pdf}
+    \caption{タスク2のプロダクションコード}
+    \label{E2}
+  \end{center}
+\end{figure}
+
+
+\item[タスク3]~\\
+タスク3は，2つのint型の値を入力し試験の合否を判定するプログラムのテストコードを作成するタスクである．図\ref{E3}は，タスク3のプロダクションコードである．
+\end{description}
+
+\begin{figure}[htbp]
+  \begin{center}
+    \includegraphics[clip,width=15cm]{E3.pdf}
+    \caption{タスク3のプロダクションコード}
+    \label{E3}
+  \end{center}
+\end{figure}
+
+
 \subsection{実験手順}
+
+4.1節で説明した実験タスクを用いた被験者による評価実験について説明する．まず，被験者に間の事前知識の違いによる結果の相違を無くすために，実験前にソフトウェアテストに関する基本的な知識からJUnitの使用に関する30分の講義を実施した．また，被験者にSuiteRecの使い方を説明し，実際に練習問題で使用してもらいツールの利用とテストコードの作成を理解していることを確認した．
 
 
 \begin{comment}
