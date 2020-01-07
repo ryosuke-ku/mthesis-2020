@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  6 JAN 2020 21:27
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  7 JAN 2020 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -177,14 +177,14 @@ LaTeX Warning: Citation `b1' on page 1 undefined on input line 298.
 
 [1] [2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 311.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 312.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 311.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 312.
  [3] [4]
 File: test-task.pdf Graphic file (type pdf)
 <test-task.pdf>
 
-Overfull \hbox (5.24146pt too wide) in paragraph at lines 354--361
+Overfull \hbox (5.24146pt too wide) in paragraph at lines 357--364
 [][][][] 
  []
 
@@ -192,7 +192,7 @@ Overfull \hbox (5.24146pt too wide) in paragraph at lines 354--361
 File: AR.pdf Graphic file (type pdf)
 <AR.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 388--389
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 391--392
  [] 
  []
 
@@ -200,7 +200,7 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 388--389
 File: DT.pdf Graphic file (type pdf)
 <DT.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 399--400
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 402--403
  [] 
  []
 
@@ -208,90 +208,91 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 399--400
 File: CTL.pdf Graphic file (type pdf)
 <CTL.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 411--412
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 414--415
  [] 
  []
 
 File: ET.pdf Graphic file (type pdf)
 <ET.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 422--423
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 425--426
  [] 
  []
 
 File: EH.pdf Graphic file (type pdf)
 <EH.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 433--434
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 436--437
  [] 
  []
 
+[8] [9]
 File: MG.pdf Graphic file (type pdf)
 <MG.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 444--445
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 447--448
  [] 
  []
 
-[8] [9] Excluding 'comment' comment. [10] Excluding 'comment' comment. [11]
+Excluding 'comment' comment. [10] [11] Excluding 'comment' comment. [12]
 File: SBST.pdf Graphic file (type pdf)
 <SBST.pdf>
 
-[12] [13]
+[13] [14]
 File: SuiteRec-outline.pdf Graphic file (type pdf)
 <SuiteRec-outline.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 599--600
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 602--603
  [] 
  []
 
-[14]
+[15]
 
-LaTeX Warning: Citation `b2' on page 15 undefined on input line 620.
+LaTeX Warning: Citation `b2' on page 16 undefined on input line 623.
 
-[15] [16]
+[16] [17]
 
-LaTeX Warning: Reference `fig2' on page 17 undefined on input line 649.
+LaTeX Warning: Reference `fig2' on page 18 undefined on input line 652.
 
 
-LaTeX Warning: Citation `b22' on page 17 undefined on input line 649.
+LaTeX Warning: Citation `b22' on page 18 undefined on input line 652.
 
 File: mapping.pdf Graphic file (type pdf)
 <mapping.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 653--654
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 656--657
  [] 
  []
 
 
-LaTeX Warning: Citation `b10' on page 17 undefined on input line 661.
+LaTeX Warning: Citation `b10' on page 18 undefined on input line 664.
 
 
-LaTeX Warning: Citation `b9' on page 17 undefined on input line 661.
+LaTeX Warning: Citation `b9' on page 18 undefined on input line 664.
 
-[17]
-Overfull \hbox (5.18585pt too wide) in paragraph at lines 676--677
+[18]
+Overfull \hbox (5.18585pt too wide) in paragraph at lines 679--680
 \OT1/cmr/m/n/12 Step3 \JY1/mc/m/n/12 で検出されたテストスメルの数を基に計算する
  ． 我 々 は ， 以前の調査 \OT1/cmr/m/n/12 [fose2019]
  []
 
-[18]
+[19]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 678.
+(Font)              using `JT1/mc/m/n' instead on input line 681.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 678.
+(Font)              using `JY1/mc/m/n' instead on input line 681.
 
 File: SuiteRec.pdf Graphic file (type pdf)
 <SuiteRec.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 690--691
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 693--694
  [] 
  []
 
-[19] [20] Excluding 'comment' comment. [21] (./mthesis.aux)
+[20] [21] Excluding 'comment' comment. [22] (./mthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -305,10 +306,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  957 strings out of 493230
  11856 string characters out of 6147555
- 82663 words of memory out of 5000000
+ 83663 words of memory out of 5000000
  4945 multiletter control sequences out of 15000+600000
  15434 words of font info for 59 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  26i,9n,21p,1341b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (28 pages, 65372 bytes).
+Output written on mthesis.dvi (29 pages, 66404 bytes).
