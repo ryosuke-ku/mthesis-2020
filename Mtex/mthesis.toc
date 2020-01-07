@@ -19,7 +19,7 @@
 \contentsline {subsection}{\numberline {4.3}実験手順}{28}% 
 \contentsline {subsection}{\numberline {4.4}結果}{29}% 
 \contentsline {subsubsection}{\numberline {4.4.1}RQ1: {\sf SuiteRec}は高いカバレッジを持つテストコードの作成を支援できるか？}{29}% 
-\contentsline {subsubsection}{\numberline {4.4.2}RQ2: {\sf SuiteRec}はテストコードの作成時間を削減できるか？}{30}% 
-\contentsline {subsubsection}{\numberline {4.4.3}RQ3: {\sf SuiteRec}は，高い品質を持つテストコードの作成を支援できるか？}{30}% 
-\contentsline {subsubsection}{\numberline {4.4.4}RQ4: {\sf SuiteRec}の利用は，開発者のテストコード作成タスクの認識にどう影響する}{30}% 
-\contentsline {subsubsection}{\numberline {4.4.5}RQ5: {\sf SuiteRec}は，開発者が求める順番でテストスイートをランキングできるか？}{30}% 
+\contentsline {subsubsection}{\numberline {4.4.2}RQ2: {\sf SuiteRec}はテストコードの作成時間を削減できるか？}{32}% 
+\contentsline {subsubsection}{\numberline {4.4.3}RQ3: {\sf SuiteRec}は，高い品質を持つテストコードの作成を支援できるか？}{32}% 
+\contentsline {subsubsection}{\numberline {4.4.4}RQ4: {\sf SuiteRec}の利用は，開発者のテストコード作成タスクの認識にどう影響するか？}{34}% 
+\contentsline {subsubsection}{\numberline {4.4.5}RQ5: {\sf SuiteRec}は，開発者が求める順番でテストスイートをランキングできるか？}{35}% 
