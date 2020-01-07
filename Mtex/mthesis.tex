@@ -816,33 +816,23 @@ RQ5では，SuiteRecから推薦されるテストスイートのランキング
 
 その後，用意した3つの実験タスクに対してテストコードを作成してもらった．被験者には，与えられた3つタスクを{\sf SuiteRec}を使用した場合とそうでない場合でテストコードを作成してもらった．本実験では，タスクの終了は被験者に判断してもらう．具体的には，被験者自身が作成したテストコードのカバレッジ・品質に満足したとき，実験タスクを終了してもらった．実験時間は1つのタスクにつき最大25分の時間を設けた．最後に，実験タスク終了後に被験者にテストコード作成に関するアンケートに答えてもらった．
 
-我々は，SuiteRecの利用効果がタスクによって偏らないように，図のように被験者によってSuiteRecの利用の有無をタスクによって変えるように割り当てた．また，SuiteRecを利用した場合の学習効果を防ぐために，3つのタスクで連続してSuiteRecを利用しないようにタスクの割り当てを行った．実験中，被験者は過去の回答を参考できないようにした．
+我々は，SuiteRecの利用効果がタスクによって偏らないように，図のように被験者を2つのグループに分け，グループによってSuiteRecの利用の有無をタスクによって変えるように割り当てた．また，SuiteRecを利用した場合の学習効果を防ぐために，3つのタスクで連続してSuiteRecを利用しないようにタスクの割り当てを行った．実験中，被験者は過去の回答を参考できないようにした．
 
-
-
-\begin{figure}[htbp]
-  \begin{center}
-    \includegraphics[clip,width=15cm]{assign.pdf}
-    \caption{タスク3のプロダクションコード}
-    \label{E3}
-  \end{center}
-\end{figure}
 
 \begin{table}[]
-\caption{成績}
+\caption{タスクの割り当て}
 \begin{center}
-\scalebox{0.5}[0.9]{
-\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\begin{tabular}{|c|l|l|l|c|}
 \hline
-被験者 & \multicolumn{2}{c|}{A} & \multicolumn{2}{c|}{B} & \multicolumn{2}{c|}{C} & \multicolumn{2}{c|}{D} & \multicolumn{2}{c|}{E} & \multicolumn{2}{c|}{F} & \multicolumn{2}{c|}{G} & \multicolumn{2}{c|}{H} & \multicolumn{2}{c|}{I} & \multicolumn{2}{c|}{J} \\ \hline
-    & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       & タスク        & ツール       \\ \hline
-1回目 & タスク1       & 〇         & タスク1       &           & タスク1       & 〇         & タスク1       & 〇         & タスク1       & 〇         & タスク1       &           & タスク1       & 〇         & タスク1       &           & タスク1       & 〇         & タスク1       &           \\ \hline
-2回目 & タスク2       &           & タスク2       & 〇         & タスク2       &           & タスク2       &           & タスク2       &           & タスク2       & 〇         & タスク2       &           & タスク2       & 〇         & タスク2       &           & タスク2       & 〇         \\ \hline
-3回目 & タスク3       & 〇         & タスク3       &           & タスク3       & 〇         & タスク3       & 〇         & タスク3       & 〇         & タスク3       &           & タスク3       & 〇         & タスク3       &           & タスク3       & 〇         & タスク3       &           \\ \hline
+グループ & \multicolumn{2}{c|}{A}                              & \multicolumn{2}{c|}{B}                           \\ \hline
+     & \multicolumn{1}{c|}{タスク} & \multicolumn{1}{c|}{ツール} & \multicolumn{1}{c|}{タスク} & ツール                   \\ \hline
+1回目  & タスク1                     &                          & タスク1                     & 〇                     \\ \hline
+2回目  & タスク2                     & \multicolumn{1}{c|}{〇}   & タスク2                     & \multicolumn{1}{l|}{} \\ \hline
+3回目  & タスク3                     &                          & タスク3                     & 〇                     \\ \hline
 \end{tabular}
-}
 \end{center}
 \end{table}
+
 
 
 \begin{comment}

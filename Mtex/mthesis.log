@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  7 JAN 2020 19:19
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  7 JAN 2020 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -130,11 +130,7 @@ ience and Technology, NAIST
 \hour=\count97
 \onehour=\count98
 \curhour=\count99
-)) (./mthesis.aux
-
-LaTeX Warning: Label `E3' multiply defined.
-
-)
+)) (./mthesis.aux)
 \openout1 = `mthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 274.
@@ -171,7 +167,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 280.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 280.
 
- (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -390,21 +387,9 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 800--801
  []
 
 [26] [27] [28]
-File: assign.pdf Graphic file (type pdf)
-<assign.pdf>
-
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 825--826
- [] 
- []
-
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 831.
-
-
-Overfull \hbox (126.87138pt too wide) in paragraph at lines 843--844
- [] 
- []
+               Default added (so using `tbp') on input line 822.
 
 Excluding 'comment' comment. [29] (./mthesis.aux)
 
@@ -413,17 +398,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 1636 strings out of 493230
- 19805 string characters out of 6147555
- 119427 words of memory out of 5000000
- 5591 multiletter control sequences out of 15000+600000
+ 1632 strings out of 493230
+ 19729 string characters out of 6147555
+ 99054 words of memory out of 5000000
+ 5589 multiletter control sequences out of 15000+600000
  15530 words of font info for 60 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  29i,11n,35p,1341b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (36 pages, 95284 bytes).
+Output written on mthesis.dvi (36 pages, 92352 bytes).
