@@ -325,7 +325,7 @@ Automatically generated tests tend to be less read-able and maintainable since t
 
 \subsubsection{コードクローン検出技術}
 
-これまでの研究において，様々なコードクローン検出技術が提案されていた[10,23]．本節では，代表的な3つの検出技術を紹介する．
+これまでの研究において，様々なコードクローン検出技術が提案されてきた[10,23]．本節では，代表的な3つの検出技術を紹介する．
 
 \begin{description}
 \item[文字/行単位の検出]~\\
@@ -707,6 +707,16 @@ SuiteRecのランキングは，Step1の入力コード片と類似コード片�
 \item{\textbf{Test Smells.}推薦されるテストスイート内にテストスメルが含まれている場合，そのテストスメルがオレンジ色にハイライトされ開発者にテストスメルの存在を提示する．}
 \item{\textbf{Recommend Test Suites.}推薦されるテストスイートが表示される．また，どのプロジェクトからテストコードが参照されたのかを示すためにファイルパスも表示される．}
 \end{enumerate}
+
+\section{評価実験}
+この章では，SuiteRecを定量的及び定性的に評価するために，被験者による実験を行う．実験では，被験者に3つのプロダクションコードのテストコードを作成してもらい，SuiteRecを使用して作成した場合とそうでない場合のテストコードを比較することで評価を行う．実験を通してコードカバレッジ，実験タスクを終了するまでの時間およびテストコードの品質に関するデータを収集することで，以下のリサーチクエスチョンに答えることを目指す．
+
+\begin{itemize}
+\item \textbf{RQ1: }テストメソッド内にテストの記述はなくコメントのみが含まれているテストコード
+\item \textbf{Ignored Test．}@Ignoreアノテーションがあり，実行されないテストコード
+\item \textbf{Redundant Assertion．}必ずテストが成功する意味のないテストコード
+\item \textbf{Unknow Test．}assert文が存在しないテストコード
+\end{itemize}
 
 \begin{comment}
 
