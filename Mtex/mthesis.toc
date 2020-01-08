@@ -20,6 +20,8 @@
 \contentsline {subsection}{\numberline {4.4}実験結果}{29}% 
 \contentsline {subsubsection}{\numberline {4.4.1}RQ1: {\sf SuiteRec}は高いカバレッジを持つテストコードの作成を支援できるか？}{29}% 
 \contentsline {subsubsection}{\numberline {4.4.2}RQ2: {\sf SuiteRec}はテストコードの作成時間を削減できるか？}{32}% 
-\contentsline {subsubsection}{\numberline {4.4.3}RQ3: {\sf SuiteRec}は，高い品質を持つテストコードの作成を支援できるか？}{32}% 
+\contentsline {subsubsection}{\numberline {4.4.3}RQ3: {\sf SuiteRec}は，高い品質を持つテストコードの作成を支援できるか？}{33}% 
 \contentsline {subsubsection}{\numberline {4.4.4}RQ4: {\sf SuiteRec}の利用は，開発者のテストコード作成タスクの認識にどう影響するか？}{34}% 
 \contentsline {subsubsection}{\numberline {4.4.5}RQ5: {\sf SuiteRec}は，開発者が求める順番でテストスイートをランキングできるか？}{35}% 
+\contentsline {section}{\numberline {5.}議論}{37}% 
+\contentsline {section}{\numberline {6.}関連研究}{37}% 
