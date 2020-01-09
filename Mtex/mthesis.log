@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  9 JAN 2020 20:47
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  9 JAN 2020 22:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -193,11 +193,11 @@ Underfull \hbox (badness 1033) in paragraph at lines 282--282
 ad-u-ate School of Sci-ence and
  []
 
-[3] (./mthesis.toc)
+[3] (./mthesis.toc [4])
 \tf@toc=\write4
 \openout4 = `mthesis.toc'.
 
- [4] (./mthesis.lof)
+ [5] (./mthesis.lof)
 \tf@lof=\write5
 \openout5 = `mthesis.lof'.
 
@@ -205,7 +205,7 @@ ad-u-ate School of Sci-ence and
 \tf@lot=\write6
 \openout6 = `mthesis.lot'.
 
- [5]
+ [6]
 
 LaTeX Warning: Citation `b20' on page 1 undefined on input line 297.
 
@@ -385,26 +385,51 @@ LaTeX Warning: No positions in optional float specifier.
 
 Excluding 'comment' comment.
 
-LaTeX Warning: Citation `b21' on page 29 undefined on input line 869.
+LaTeX Warning: Citation `b21' on page 29 undefined on input line 868.
 
 
-LaTeX Warning: Citation `b11' on page 29 undefined on input line 869.
+LaTeX Warning: Citation `b11' on page 29 undefined on input line 868.
 
 
-LaTeX Warning: Reference `C0' on page 29 undefined on input line 869.
-
-
-LaTeX Warning: Reference `C1' on page 29 undefined on input line 869.
-
-
-LaTeX Warning: Reference `fig6' on page 29 undefined on input line 869.
+LaTeX Warning: Reference `fig6' on page 29 undefined on input line 868.
 
 [29]
 File: C0.pdf Graphic file (type pdf)
 <C0.pdf>
 File: C1.pdf Graphic file (type pdf)
 <C1.pdf>
- Excluding 'comment' comment.
-! Undefined control sequence.
-l.910 \paragragh
-                {RQ2: {\sf SuiteRec}はテストコードの作成時�
+ Excluding 'comment' comment. [30]
+File: time.pdf Graphic file (type pdf)
+<time.pdf>
+ [31]
+
+LaTeX Warning: Citation `b9' on page 32 undefined on input line 928.
+
+File: smells.pdf Graphic file (type pdf)
+<smells.pdf>
+[32] [33]
+File: suiterec-expt.pdf Graphic file (type pdf)
+<suiterec-expt.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 954--955
+ [] 
+ []
+
+[34] [35] [36] [37] [38] [39] Excluding 'comment' comment. [40] (./mthesis.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1683 strings out of 493230
+ 20409 string characters out of 6147555
+ 99332 words of memory out of 5000000
+ 5628 multiletter control sequences out of 15000+600000
+ 15530 words of font info for 60 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 29i,11n,35p,1341b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on mthesis.dvi (48 pages, 125868 bytes).
