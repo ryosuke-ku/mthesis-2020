@@ -1,9 +1,89 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{alex_nips12}
-A.~Krizhevsky, I.~Sutskever, and G.E. Hinton.
-\newblock Imagenet classification with deep convolutional neural networks.
-\newblock In {\em Advances in Neural Information Processing Systems
-  25(NIPS'12)}, pages 1097--1105, 2012.
+\bibitem{b22}
+Frank Appel.
+\newblock {\em Testing with Junit}.
+\newblock Packt Publishing, 2015.
+
+\bibitem{b14}
+Ermira Daka, Jos{\'e} Campos, Gordon Fraser, Jonathan Dorn, and Westley Weimer.
+\newblock Modeling readability to improve unit tests.
+\newblock In {\em Proceedings of the Joint Meeting on Foundations of Software
+  Engineering (ESEC/FSE)}, pages 107--118, 2015.
+
+\bibitem{b20}
+Michael Ellims, James Bridges, and Darrel~C. Ince.
+\newblock The economics of unit testing.
+\newblock {\em Empirical Software Engineering}, 11(1):5--31, 2006.
+
+\bibitem{b3}
+Gordon Fraser and Andrea Arcuri.
+\newblock Evosuite: Automatic test suite generation for object-oriented
+  software.
+\newblock In {\em Proceedings of the Symposium on the Foundations of Software
+  Engineering (FSE)}, pages 416--419, 2011.
+
+\bibitem{b16}
+L.~{Ma}, C.~{Artho}, C.~{Zhang}, H.~{Sato}, J.~{Gmeiner}, and R.~{Ramler}.
+\newblock Grt: Program-analysis-guided random testing (t).
+\newblock In {\em IEEE/ACM International Conference on Automated Software
+  Engineering (ASE)}, pages 212--223, 2015.
+
+\bibitem{b15}
+Fabio Palomba, Annibale Panichella, Andy Zaidman, Rocco Oliveto, and Andrea
+  De~Lucia.
+\newblock Automatic test case generation: What if test code quality matters?
+\newblock In {\em Proceedings of the International Symposium on Software
+  Testing and Analysis (ISSTA)}, pages 130--141, 2016.
+
+\bibitem{b17}
+A.~{Panichella}, F.~M. {Kifetew}, and P.~{Tonella}.
+\newblock Reformulating branch coverage as a many-objective optimization
+  problem.
+\newblock In {\em 2015 IEEE 8th International Conference on Software Testing,
+  Verification and Validation (ICST)}, pages 1--10, 2015.
+
+\bibitem{b13}
+Sebastiano Panichella, Annibale Panichella, Moritz Beller, Andy Zaidman, and
+  Harald~C. Gall.
+\newblock The impact of test case summaries on bug fixing performance: An
+  empirical investigation.
+\newblock In {\em Proceeding of the International Conference on Software
+  Engineering (ICSE)}, pages 547--558, 2016.
+
+\bibitem{b9}
+Anthony Peruma, Khalid Almalki, Christian~D. Newman, Mohamed~Wiem Mkaouer, Ali
+  Ouni, and Fabio Palomba.
+\newblock On the distribution of test smells in open source android
+  applications: An exploratory study.
+\newblock In {\em Proceedings of the International Conference on Computer
+  Science and Software Engineering (CASCON)}, pages 193--202, 2019.
+
+\bibitem{b18}
+I.~S. W.~B. Prasetya.
+\newblock T3: Benchmarking at third unit testing tool contest.
+\newblock In {\em Proceedings of the Eighth International Workshop on
+  Search-Based Software Testing}, SBST '15, pages 44--47, 2015.
+
+\bibitem{b2}
+C.~K. {Roy} and J.~R. {Cordy}.
+\newblock Nicad: Accurate detection of near-miss intentional clones using
+  flexible pretty-printing and code normalization.
+\newblock In {\em Proceedings of the International Conference on Program
+  Comprehension (ICPC)}, pages 172--181, 2008.
+
+\bibitem{b19}
+Abdelilah Sakti, Gilles Pesant, and Yann-Ga{\"e}l Gu{\'e}h{\'e}neuc.
+\newblock Instance generator and problem representation to improve object
+  oriented code coverage.
+\newblock {\em IEEE Transactions on Software Engineering}, 41:294--313, 2015.
+
+\bibitem{b1}
+S.~{Shamshiri}, J.~M. {Rojas}, J.~P. {Galeotti}, N.~{Walkinshaw}, and
+  G.~{Fraser}.
+\newblock How do automatically generated unit tests influence software
+  maintenance?
+\newblock In {\em Proceedings of the International Conference on Software
+  Testing, Verification and Validation (ICST)}, pages 250--261, 2018.
 
 \end{thebibliography}
