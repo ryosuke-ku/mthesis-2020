@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  10 JAN 2020 14:38
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  10 JAN 2020 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -134,7 +134,14 @@ ience and Technology, NAIST
 \hour=\count98
 \onehour=\count99
 \curhour=\count100
-)) (./mthesis.aux)
+)) (./mthesis.aux
+
+LaTeX Warning: Label `E1' multiply defined.
+
+
+LaTeX Warning: Label `E2' multiply defined.
+
+)
 \openout1 = `mthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 275.
@@ -171,8 +178,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 281.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 281.
 
-
-(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+ (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -369,7 +375,13 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 954--955
  [] 
  []
 
-[34] [35] [36] [37] [38] [39] [40] [41] (./mthesis.bbl
+[34] [35]
+File: E1.pdf Graphic file (type pdf)
+<E1.pdf>
+ [36]
+File: E2.pdf Graphic file (type pdf)
+<E2.pdf>
+ [37] [38] [39] [40] [41] [42] [43] [44] (./mthesis.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 (Font)              using `JT1/gt/m/n' instead on input line 5.
@@ -378,12 +390,15 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 5.
 
-[42]) [43] [44] (./mthesis.aux)
+[45]) [46] [47] (./mthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
@@ -395,4 +410,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  29i,11n,35p,1341b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (52 pages, 140780 bytes).
+Output written on mthesis.dvi (55 pages, 145712 bytes).
