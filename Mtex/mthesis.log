@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  10 JAN 2020 12:14
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  10 JAN 2020 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -205,46 +205,13 @@ ad-u-ate School of Sci-ence and
 \tf@lot=\write6
 \openout6 = `mthesis.lot'.
 
- [6]
-
-LaTeX Warning: Citation `b20' on page 1 undefined on input line 297.
-
-
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 297.
-
-
-LaTeX Warning: Citation `b16' on page 1 undefined on input line 297.
-
-
-LaTeX Warning: Citation `b17' on page 1 undefined on input line 297.
-
-
-LaTeX Warning: Citation `b18' on page 1 undefined on input line 297.
-
-
-LaTeX Warning: Citation `b19' on page 1 undefined on input line 297.
-
-
-LaTeX Warning: Citation `b3' on page 1 undefined on input line 299.
-
-
-LaTeX Warning: Citation `b13' on page 1 undefined on input line 299.
-
-
-LaTeX Warning: Citation `b14' on page 1 undefined on input line 299.
-
-
-LaTeX Warning: Citation `b15' on page 1 undefined on input line 299.
-
-
-LaTeX Warning: Citation `b1' on page 1 undefined on input line 299.
-
-[1] [2]
+ [6] [1] [2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 313.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 313.
- [3] [4]
+
+[3] [4]
 File: test-task.pdf Graphic file (type pdf)
 <test-task.pdf>
 
@@ -308,16 +275,9 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 617--618
  [] 
  []
 
-[15]
-
-LaTeX Warning: Citation `b2' on page 16 undefined on input line 639.
-
-[16] [17]
+[15] [16] [17]
 
 LaTeX Warning: Reference `fig2' on page 18 undefined on input line 668.
-
-
-LaTeX Warning: Citation `b22' on page 18 undefined on input line 668.
 
 File: mapping.pdf Graphic file (type pdf)
 <mapping.pdf>
@@ -328,9 +288,6 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 672--673
 
 
 LaTeX Warning: Citation `b10' on page 18 undefined on input line 680.
-
-
-LaTeX Warning: Citation `b9' on page 18 undefined on input line 680.
 
 [18]
 Overfull \hbox (5.18585pt too wide) in paragraph at lines 695--696
@@ -402,12 +359,9 @@ File: C1.pdf Graphic file (type pdf)
 File: time.pdf Graphic file (type pdf)
 <time.pdf>
  [31]
-
-LaTeX Warning: Citation `b9' on page 32 undefined on input line 928.
-
 File: smells.pdf Graphic file (type pdf)
 <smells.pdf>
-[32] [33]
+ [32] [33]
 File: suiterec-expt.pdf Graphic file (type pdf)
 <suiterec-expt.pdf>
 
@@ -415,8 +369,7 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 954--955
  [] 
  []
 
-[34] [35] [36] [37] [38] [39] Excluding 'comment' comment. [40] [41]
-(./mthesis.bbl
+[34] [35] [36] [37] [38] [39] [40] [41] (./mthesis.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 (Font)              using `JT1/gt/m/n' instead on input line 5.
@@ -432,9 +385,6 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  1706 strings out of 493230
@@ -445,4 +395,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  29i,11n,35p,1341b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (52 pages, 136240 bytes).
+Output written on mthesis.dvi (52 pages, 140332 bytes).
