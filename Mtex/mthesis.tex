@@ -9,6 +9,8 @@
 \usepackage{ascmac}
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{eclbkbox}
+\usepackage{amsmath}
+
 
 %\documentclass[12pt]{article} % English
 % if there are problems in the above regarding fonts, use this
@@ -1022,6 +1024,9 @@ RQ4では，評価実験の後，被験者に対して実験タスクに関す�
 
 本節では，評価実験2である{\sf SuiteRec}が推薦するテストコードの順位付けに関する評価実験の結果を報告する．そして，4.2節で説明した，リサーチクエスチョン5について実験結果を基に回答する．
 
+\paragraph{RQ5: SuiteRecは，開発者が参考にしたいテストスイートを上位に推薦できるか？}
+RQ5では，15人の被験者によるアンケート結果をランキングの代表的な評価指標である以下の評価指標に基づいて計算する．3.4節で説明したようにSuiteRecでは，推薦されるテストコードの順位付けとして類似度とテストスメルの2つに基づいて並び替えをする．詳細には2つの要素の内類似度を優先とし，類似度が同じ場合テストスメル数で順位を決定する．提案したランキング手法の有効性を検証するために，テストスメルを優先した場合のランキング手法と本手法の精度と再現率を比較した．
+
 
 \begin{description}
 \item[Mean Reciprocal Rank(MRR)]~\\
@@ -1034,17 +1039,53 @@ MRRは推薦リストを上位から確認し，最初に適合した要素の�
 \begin{itemize}
 \item $uは各対象ユーザ，Uは全対象ユーザ$
 \item $k_uはユーザuへの推薦リストのうち，最初にuが適合するアイテムが出現した順位$
-
 \end{itemize}
 
-\item[MAP（Mean Average Precision）]~\\
+
+\item[Mean Average Precision（MAP）]~\\
 MAPは，AP(Average Precision)の値を対象のユーザ数で平均した値である．APとは，適合アイテムが出現した時点をそれぞれ閾値として，閾値ごとのPrecisionを算出し，Precisionを平均した値である．以下にAPとMAPの式を示す．
 
 \[
-  AP =
-  \sum_{k=1}^{N} \frac{1}{k_u}
+  AP(u) =
+  \sum_{k=1}^{N} \frac{Precision@k \cdot y_k}{\sum_{i=1}^{k}y_i}
 \]
 
+\[
+  y_k = \begin{cases}
+    1 : 上位k番目が適合アイテム \\
+    0 : それ以外
+  \end{cases}
+\]
+
+\[
+  MAP =
+  \frac{1}{|U|}\sum_{u\in U} AP(u)
+\]
+\begin{itemize}
+\item $uは各対象ユーザ，Uは全対象ユーザ$
+\end{itemize}
+
+
+\item[Mean Recall@K(MR@K)]~\\
+MR@Kは，推薦ランキングの上位k番目のRecallを平均した値である．Recallとは，ユーザが実際に適合したアイテムのうち、推薦リストでどれだけカバーできたかの割合である．以下に上位k番目のRecallとMR@Kの式を示す．
+
+\[
+  Recall@N =
+  \frac{|a \cap p_N|}{|a|}
+\]
+\begin{itemize}
+\item $N：考慮する上位ランキングの数$
+\item $a：ユーザが適合したアイテム集合$
+\item $p_N：TopNの推薦リスト$
+\end{itemize}
+
+\[
+  MR@K =
+  \frac{1}{|U|}\sum_{u\in U} Recall@N(u)
+\]
+\begin{itemize}
+\item $uは各対象ユーザ，Uは全対象ユーザ$
+\end{itemize}
 
 \end{description}
 
@@ -1058,7 +1099,7 @@ MAPは，AP(Average Precision)の値を対象のユーザ数で平均した値�
 
 RQ3は，{\sf SuiteRec}を使用して作成したテストコードはテストスメルの数が少なく品質が高いことを示した．開発者によって埋め込まれるテストスメルの存在は，メンテナンス活動を困難にする．{\sf SuiteRec}はテストスメルの存在を被験者に意識させることで，保守性の高いテストコードの作成を支援できる可能性がある．実際にアンケートの自由記述欄の回答には「提示されたテストスメルを理解し，それをなくすようにリファクタリングしテストコードを作成した」という報告がされている．さらに，「メソッド名を考える際に推薦されたテストコードのテストメソッド名が参考になった」という可読性向上に有益だったという回答も存在した．一方で，回答の中には「テストスメルの存在は意識できたが具体的にどう修正してなくすことができるのか分からなかった」という回答も存在した．これは{\sf SuiteRec}の更なる改善の必要性を示しており，各テストスメルに対するリファクタリング方法も提示すべきだと考えている．
 
-\subsection{妥当性の脅威}
+\subsection{妥当性への脅威}
 
 本節では，提案ツール{\sf SuiteRec}と評価実験における妥当性の脅威を説明する．
 
