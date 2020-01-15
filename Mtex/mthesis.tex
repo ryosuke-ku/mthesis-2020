@@ -1041,8 +1041,8 @@ MRRは推薦リストを上位から確認し，最初に適合した要素の�
 MAPは，AP(Average Precision)の値を対象のユーザ数で平均した値である．APとは，適合アイテムが出現した時点をそれぞれ閾値として，閾値ごとのPrecisionを算出し，Precisionを平均した値である．以下にAPとMAPの式を示す．
 
 \[
-  AP(u) =
-  \frac{1}{|U|}\sum_{u\in U} \frac{1}{k_u}
+  AP =
+  \sum_{k=1}^{N} \frac{1}{k_u}
 \]
 
 
