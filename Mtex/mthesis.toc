@@ -29,7 +29,7 @@
 \contentsline {paragraph}{RQ5: SuiteRecは，開発者が参考にしたいテストスイートを上位に推薦できるか？}{39}% 
 \contentsline {section}{\numberline {5.}議論}{41}% 
 \contentsline {subsection}{\numberline {5.1}SuiteRecの有用性}{41}% 
-\contentsline {subsection}{\numberline {5.2}妥当性の脅威}{42}% 
+\contentsline {subsection}{\numberline {5.2}妥当性への脅威}{42}% 
 \contentsline {section}{\numberline {6.}関連研究}{44}% 
 \contentsline {section}{\numberline {7.}まとめと今後の課題}{45}% 
 \contentsline {section}{謝辞}{46}% 
