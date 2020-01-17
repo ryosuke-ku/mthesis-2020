@@ -6,45 +6,49 @@ Database file #1: mthesis.bib
 Warning--I didn't find a database entry for "b10"
 Warning--I didn't find a database entry for "b21"
 Warning--I didn't find a database entry for "b11"
-You've used 13 entries,
+Name 1 in "肥後芳樹, and 楠本真二,井上克郎" has a comma at the end for entry c1
+while executing---line 1049 of file plain.bst
+Name 1 in "肥後芳樹, and 楠本真二,井上克郎" has a comma at the end for entry c1
+while executing---line 1090 of file plain.bst
+You've used 14 entries,
             2118 wiz_defined-function locations,
-            572 strings with 6731 characters,
-and the built_in function-call counts, 5921 in all, are:
-= -- 574
-> -- 272
+            579 strings with 6853 characters,
+and the built_in function-call counts, 6289 in all, are:
+= -- 612
+> -- 285
 < -- 10
-+ -- 109
-- -- 94
-* -- 385
-:= -- 887
-add.period$ -- 39
-call.type$ -- 13
-change.case$ -- 85
++ -- 114
+- -- 98
+* -- 410
+:= -- 939
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 90
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 258
-empty$ -- 475
-format.name$ -- 94
-if$ -- 1317
+cite$ -- 14
+duplicate$ -- 279
+empty$ -- 501
+format.name$ -- 98
+if$ -- 1402
 int.to.chr$ -- 0
-int.to.str$ -- 13
-missing$ -- 14
-newline$ -- 68
-num.names$ -- 26
-pop$ -- 114
+int.to.str$ -- 14
+missing$ -- 15
+newline$ -- 73
+num.names$ -- 28
+pop$ -- 118
 preamble$ -- 1
-purify$ -- 73
+purify$ -- 77
 quote$ -- 0
-skip$ -- 213
+skip$ -- 235
 stack$ -- 0
-substring$ -- 391
-swap$ -- 107
+substring$ -- 409
+swap$ -- 118
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 50
+type$ -- 54
 warning$ -- 0
-while$ -- 56
-width$ -- 15
-write$ -- 145
-(There were 3 warnings)
+while$ -- 57
+width$ -- 16
+write$ -- 156
+(There were 2 error messages)

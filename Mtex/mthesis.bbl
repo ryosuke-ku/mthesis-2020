@@ -44,20 +44,19 @@ A.~{Panichella}, F.~M. {Kifetew}, and P.~{Tonella}.
   Verification and Validation (ICST)}, pages 1--10, 2015.
 
 \bibitem{b13}
-Sebastiano Panichella, Annibale Panichella, Moritz Beller, Andy Zaidman, and
-  Harald~C. Gall.
+S.~{Panichella}, A.~{Panichella}, M.~{Beller}, A.~{Zaidman}, and H.~C. {Gall}.
 \newblock The impact of test case summaries on bug fixing performance: An
   empirical investigation.
-\newblock In {\em Proceeding of the International Conference on Software
-  Engineering (ICSE)}, pages 547--558, 2016.
+\newblock In {\em 2016 IEEE/ACM 38th International Conference on Software
+  Engineering (ICSE)}, pages 547--558, May 2016.
 
 \bibitem{b9}
 Anthony Peruma, Khalid Almalki, Christian~D. Newman, Mohamed~Wiem Mkaouer, Ali
   Ouni, and Fabio Palomba.
 \newblock On the distribution of test smells in open source android
   applications: An exploratory study.
-\newblock In {\em Proceedings of the International Conference on Computer
-  Science and Software Engineering (CASCON)}, pages 193--202, 2019.
+\newblock In {\em Proceedings of the 29th Annual International Conference on
+  Computer Science and Software Engineering (CASCON)}, page 193–202, 2019.
 
 \bibitem{b18}
 I.~S. W.~B. Prasetya.
@@ -69,8 +68,8 @@ I.~S. W.~B. Prasetya.
 C.~K. {Roy} and J.~R. {Cordy}.
 \newblock Nicad: Accurate detection of near-miss intentional clones using
   flexible pretty-printing and code normalization.
-\newblock In {\em Proceedings of the International Conference on Program
-  Comprehension (ICPC)}, pages 172--181, 2008.
+\newblock In {\em 2008 16th IEEE International Conference on Program
+  Comprehension}, pages 172--181, June 2008.
 
 \bibitem{b19}
 Abdelilah Sakti, Gilles Pesant, and Yann-Ga{\"e}l Gu{\'e}h{\'e}neuc.
@@ -83,7 +82,12 @@ S.~{Shamshiri}, J.~M. {Rojas}, J.~P. {Galeotti}, N.~{Walkinshaw}, and
   G.~{Fraser}.
 \newblock How do automatically generated unit tests influence software
   maintenance?
-\newblock In {\em Proceedings of the International Conference on Software
-  Testing, Verification and Validation (ICST)}, pages 250--261, 2018.
+\newblock In {\em 2018 IEEE 11th International Conference on Software Testing,
+  Verification and Validation (ICST)}, pages 250--261, April 2018.
+
+\bibitem{c1}
+肥後芳樹 and 井上克郎 楠本真二.
+\newblock コードクローン検出とその関連技術.
+\newblock {\em 電子情報通信学会論文誌}, J91--D(6):1465--1481, 2008.
 
 \end{thebibliography}
