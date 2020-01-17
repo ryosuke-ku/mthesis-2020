@@ -200,6 +200,13 @@ T.~{Zhang} and M.~{Kim}.
 \newblock In {\em Proceedings of the International Conference on Software
   Engineering (ICSE)}, pages 665--676, 2017.
 
+\bibitem{fose2019}
+倉地 亮介, 崔 恩瀞, and 飯田 元.
+\newblock
+  類似コード検出ツールを用いたテストコード再利用に向けた調査.
+\newblock {\em 第26回ソフトウェア工学の基礎ワークショップ
+  (FOSE)}, pages 177--178, 2019.
+
 \bibitem{tanno}
 丹野 治門, 倉林 利行, 張 暁晶, 伊山 宗吉, 安達 悠, 岩田
   真治, and 切貫 弘之.
