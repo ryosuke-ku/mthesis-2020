@@ -3,52 +3,46 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: mthesis.aux
 The style file: plain.bst
 Database file #1: mthesis.bib
-Warning--I didn't find a database entry for "b10"
-Warning--I didn't find a database entry for "b21"
-Warning--I didn't find a database entry for "b11"
-Name 1 in "肥後芳樹, and 楠本真二,井上克郎" has a comma at the end for entry c1
-while executing---line 1049 of file plain.bst
-Name 1 in "肥後芳樹, and 楠本真二,井上克郎" has a comma at the end for entry c1
-while executing---line 1090 of file plain.bst
-You've used 14 entries,
+Warning--empty institution in t1
+You've used 33 entries,
             2118 wiz_defined-function locations,
-            579 strings with 6853 characters,
-and the built_in function-call counts, 6289 in all, are:
-= -- 612
-> -- 285
-< -- 10
-+ -- 114
-- -- 98
-* -- 410
-:= -- 939
-add.period$ -- 42
-call.type$ -- 14
-change.case$ -- 90
+            689 strings with 9612 characters,
+and the built_in function-call counts, 14010 in all, are:
+= -- 1345
+> -- 669
+< -- 20
++ -- 266
+- -- 230
+* -- 935
+:= -- 2154
+add.period$ -- 99
+call.type$ -- 33
+change.case$ -- 211
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 279
-empty$ -- 501
-format.name$ -- 98
-if$ -- 1402
+cite$ -- 34
+duplicate$ -- 587
+empty$ -- 1110
+format.name$ -- 230
+if$ -- 3076
 int.to.chr$ -- 0
-int.to.str$ -- 14
-missing$ -- 15
-newline$ -- 73
-num.names$ -- 28
-pop$ -- 118
+int.to.str$ -- 33
+missing$ -- 36
+newline$ -- 168
+num.names$ -- 66
+pop$ -- 271
 preamble$ -- 1
-purify$ -- 77
+purify$ -- 181
 quote$ -- 0
-skip$ -- 235
+skip$ -- 469
 stack$ -- 0
-substring$ -- 409
-swap$ -- 118
-text.length$ -- 10
+substring$ -- 902
+swap$ -- 217
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 54
-warning$ -- 0
-while$ -- 57
-width$ -- 16
-write$ -- 156
-(There were 2 error messages)
+type$ -- 124
+warning$ -- 1
+while$ -- 126
+width$ -- 35
+write$ -- 361
+(There was 1 warning)
