@@ -4,45 +4,45 @@ The top-level auxiliary file: mthesis.aux
 The style file: plain.bst
 Database file #1: mthesis.bib
 Warning--empty institution in t1
-You've used 34 entries,
+You've used 35 entries,
             2118 wiz_defined-function locations,
-            695 strings with 9824 characters,
-and the built_in function-call counts, 14498 in all, are:
-= -- 1390
-> -- 707
-< -- 20
-+ -- 281
-- -- 244
-* -- 982
-:= -- 2239
-add.period$ -- 102
-call.type$ -- 34
-change.case$ -- 221
+            699 strings with 9895 characters,
+and the built_in function-call counts, 15103 in all, are:
+= -- 1453
+> -- 735
+< -- 21
++ -- 292
+- -- 254
+* -- 1011
+:= -- 2316
+add.period$ -- 105
+call.type$ -- 35
+change.case$ -- 229
 chr.to.int$ -- 0
-cite$ -- 35
-duplicate$ -- 598
-empty$ -- 1137
-format.name$ -- 244
-if$ -- 3169
+cite$ -- 36
+duplicate$ -- 635
+empty$ -- 1177
+format.name$ -- 254
+if$ -- 3315
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 37
-newline$ -- 173
-num.names$ -- 68
-pop$ -- 279
+int.to.str$ -- 35
+missing$ -- 38
+newline$ -- 178
+num.names$ -- 70
+pop$ -- 291
 preamble$ -- 1
-purify$ -- 190
+purify$ -- 197
 quote$ -- 0
-skip$ -- 476
+skip$ -- 516
 stack$ -- 0
-substring$ -- 932
-swap$ -- 218
-text.length$ -- 20
+substring$ -- 959
+swap$ -- 243
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 128
+type$ -- 132
 warning$ -- 1
-while$ -- 130
-width$ -- 36
-write$ -- 372
+while$ -- 133
+width$ -- 37
+write$ -- 383
 (There was 1 warning)

@@ -167,13 +167,19 @@ C.~K. {Roy} and J.~R. {Cordy}.
 \newblock In {\em Proceedings of the International Conference on Program
   Comprehension}, pages 172--181, 2008.
 
+\bibitem{SourcererCC}
+H.~{Sajnani}, V.~{Saini}, J.~{Svajlenko}, C.~K. {Roy}, and C.~V. {Lopes}.
+\newblock Sourcerercc: Scaling code clone detection to big-code.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, page 1157–1168, 2016.
+
 \bibitem{b1}
 S.~{Shamshiri}, J.~M. {Rojas}, J.~P. {Galeotti}, N.~{Walkinshaw}, and
   G.~{Fraser}.
 \newblock How do automatically generated unit tests influence software
   maintenance?
-\newblock In {\em 2018 IEEE 11th International Conference on Software Testing,
-  Verification and Validation (ICST)}, pages 250--261, 2018.
+\newblock In {\em Proceedings of the International Conference on Software
+  Testing, Verification and Validation (ICST)}, pages 250--261, 2018.
 
 \bibitem{Davide}
 D.~{Spadini}, F.~{Palomba}, A.~{Zaidman}, M.~{Bruntink}, and A.~{Bacchelli}.
