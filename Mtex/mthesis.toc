@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {3.}SuiteRec: テストコード自動推薦ツール}{16}% 
 \contentsline {subsection}{\numberline {3.1}Step1: 類似コード検出}{17}% 
 \contentsline {subsection}{\numberline {3.2}Step2: テストコードの検索}{18}% 
-\contentsline {subsection}{\numberline {3.3}Step3: テストスメルの検出}{19}% 
+\contentsline {subsection}{\numberline {3.3}Step3: テストスメルの検出}{20}% 
 \contentsline {subsection}{\numberline {3.4}Step4: 推薦されるテストコードの順位付け}{20}% 
 \contentsline {section}{\numberline {4.}評価実験}{24}% 
 \contentsline {subsection}{\numberline {4.1}評価実験1: テストコード作成支援に関する実験}{24}% 
