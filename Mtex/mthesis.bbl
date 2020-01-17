@@ -1,0 +1,208 @@
+\begin{thebibliography}{10}
+
+\bibitem{b19}
+S.~{Abdelilah}, P.~{Gilles}, and Y.~{Gu{\'e}h{\'e}neuc}.
+\newblock Instance generator and problem representation to improve object
+  oriented code coverage.
+\newblock {\em IEEE Transactions on Software Engineering (TSE)}, 41:294--313,
+  2015.
+
+\bibitem{b22}
+F.~{Appel}.
+\newblock {\em Testing with Junit}.
+\newblock Packt Publishing, 2015.
+
+\bibitem{c2}
+B.~S. {Baker}.
+\newblock Finding clones with dup: Analysis of an experiment.
+\newblock {\em IEEE Transactions on Software Engineering (TSE)},
+  33(9):608--621, 2007.
+
+\bibitem{Bavota}
+G.~{Bavota}, A.~{Qusef}, R.~{Oliveto}, A.~{Lucia}, and D.~{Binkley}.
+\newblock Are test smells really harmful? an empirical study.
+\newblock {\em Empirical Software Engineering}, 20(4):1052–1094, 2015.
+
+\bibitem{c3}
+I.~D. {Baxter}, A.~{Yahin}, L.~{Moura}, M.~{Sant'Anna}, and L.~{Bier}.
+\newblock Clone detection using abstract syntax trees.
+\newblock In {\em Proceedings of the International Conference on Software
+  Maintenance (ICSM)}, pages 368--377, 1998.
+
+\bibitem{h1}
+Beck.
+\newblock {\em Test Driven Development: By Example}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., 2002.
+
+\bibitem{b14}
+E.~{Daka}, J.~{Campos}, G.~{Fraser}, J.~{Dorn}, and w.~{Weimer}.
+\newblock Modeling readability to improve unit tests.
+\newblock In {\em Proceedings of the Joint Meeting on Foundations of Software
+  Engineering (ESEC/FSE)}, pages 107--118, 2015.
+
+\bibitem{t1}
+A.~{Deursen}, L.~M.~F. {Moonen}, A.~{Bergh}, and G.~{Kok}.
+\newblock Refactoring test code.
+\newblock Technical report, 2001.
+
+\bibitem{b20}
+M.~{Ellims}, J.~{Bridges}, and D.~C. {Ince}.
+\newblock The economics of unit testing.
+\newblock {\em Empirical Software Engineering}, 11(1):5--31, 2006.
+
+\bibitem{EvoSuite}
+G.~{Fraser} and A.~{Arcuri}.
+\newblock Evosuite: Automatic test suite generation for object-oriented
+  software.
+\newblock In {\em Proceedings of the Symposium on the Foundations of Software
+  Engineering (FSE)}, pages 416--419, 2011.
+
+\bibitem{gilligan10}
+R.~{Holmes} and R.~J. {Walker}.
+\newblock Supporting the investigation and planning of pragmatic reuse tasks.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, pages 447--457, 2007.
+
+\bibitem{gilligan34}
+R.~{Holmes} and R.~J. {Walker}.
+\newblock Systematizing pragmatic software reuse.
+\newblock {\em ACM Transactions on Software Engineering (TSE)}, 21(4), 2013.
+
+\bibitem{Jiang2007}
+L.~{Jiang}, G.~{Misherghi}, Z.~{Su}, and S.~{Glondu}.
+\newblock {DECKARD}: Scalable and accurate tree-based detection of code clones.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, pages 96--105, 2007.
+
+\bibitem{c5}
+H.~{Kim}, Y.~{Jung}, S.~{Kim}, and K.~{Yi}.
+\newblock Mecc: memory comparison-based clone detector.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, pages 301--310, 2011.
+
+\bibitem{FaCoY}
+K.~{Kim}, D.~{Kim}, T.~F. {Bissyandé}, E.~{Choi}, L.~{Li}, J.~{Klein}, and
+  Y.~{Le Traon}.
+\newblock Facoy - a code-to-code search engine.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, pages 946--957, 2018.
+
+\bibitem{GRT}
+L.~{Ma}, C.~{Artho}, C.~{Zhang}, H.~{Sato}, J.~{Gmeiner}, and R.~{Ramler}.
+\newblock Grt: Program-analysis-guided random testing (t).
+\newblock In {\em Proceedings of the International Conference on Automated
+  Software Engineering (ASE)}, pages 212--223, Nov 2015.
+
+\bibitem{Machado2010}
+P.~{Machado} and A.~{Sampaio}.
+\newblock {\em Automatic Test-Case Generation}, pages 59--103.
+\newblock Springer Berlin Heidelberg, 2010.
+
+\bibitem{skipper}
+S.~{Makady} and R.~{Walker}.
+\newblock Validating pragmatic reuse tasks by leveraging existing test suites.
+\newblock {\em Software: Practice and Experience}, 43:1039--1070, 2013.
+
+\bibitem{b6}
+G.~{Meszaros}.
+\newblock {\em xUnit Test Patterns: Refactoring Test Code}.
+\newblock Addison-Wesley, 2007.
+
+\bibitem{Fabio2016}
+F.~{Palomba}, D.~D. {Nucci}, A.~{Panichella}, R.~{Oliveto}, and A.~D. {Lucia}.
+\newblock On the diffusion of test smells in automatically generated test code:
+  An empirical study.
+\newblock In {\em Proceedings of the International Workshop on Search-Based
+  Software Testing (SBST)}, pages 5--14, 2016.
+
+\bibitem{b15}
+F.~{Palomba}, A.~{Panichella}, A.~{Zaidman}, R.~{Oliveto}, and A.~D. {Lucia}.
+\newblock Automatic test case generation: What if test code quality matters?
+\newblock In {\em Proceedings of the International Symposium on Software
+  Testing and Analysis (ISSTA)}, pages 130--141, 2016.
+
+\bibitem{b17}
+A.~{Panichella}, F.~M. {Kifetew}, and P.~{Tonella}.
+\newblock Reformulating branch coverage as a many-objective optimization
+  problem.
+\newblock In {\em Proceedings of the International Conference on Software
+  Testing, Verification and Validation (ICST)}, pages 1--10, 2015.
+
+\bibitem{b13}
+S.~{Panichella}, A.~{Panichella}, M.~{Beller}, A.~{Zaidman}, and H.~C. {Gall}.
+\newblock The impact of test case summaries on bug fixing performance: An
+  empirical investigation.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, pages 547--558, 2016.
+
+\bibitem{Peruma}
+A.~{Peruma}, K.~{Almalki}, C.~D. {Newman}, M.~W. {Mkaouer}, A.~{Ouni}, and
+  F.~{Palomba}.
+\newblock On the distribution of test smells in open source android
+  applications: An exploratory study.
+\newblock In {\em Proceedings of the International Conference on Computer
+  Science and Software Engineering (CASCON)}, pages 193--202, 2019.
+
+\bibitem{T3}
+I.~S. W.~B. {Prasetya}.
+\newblock T3: Benchmarking at third unit testing tool contest.
+\newblock In {\em Proceedings of the International Workshop on Search-Based
+  Software Testing (SBST)}, pages 44--47, 2015.
+
+\bibitem{c6}
+D.~{Rattan}, R.~{Bhatia}, and M.~{Singh}.
+\newblock Software clone detection: A systematic review.
+\newblock {\em Information and Software Technology}, 55:1165–1199, 2013.
+
+\bibitem{c4}
+C.~{Roy}, {Cordy} J, and R.~{Koschke}.
+\newblock Comparison and evaluation of code clone detection techniques and
+  tools: A qualitative approach.
+\newblock {\em Science of Computer Programming}, 74:470--495, 2009.
+
+\bibitem{b2}
+C.~K. {Roy} and J.~R. {Cordy}.
+\newblock Nicad: Accurate detection of near-miss intentional clones using
+  flexible pretty-printing and code normalization.
+\newblock In {\em Proceedings of the International Conference on Program
+  Comprehension}, pages 172--181, 2008.
+
+\bibitem{b1}
+S.~{Shamshiri}, J.~M. {Rojas}, J.~P. {Galeotti}, N.~{Walkinshaw}, and
+  G.~{Fraser}.
+\newblock How do automatically generated unit tests influence software
+  maintenance?
+\newblock In {\em 2018 IEEE 11th International Conference on Software Testing,
+  Verification and Validation (ICST)}, pages 250--261, 2018.
+
+\bibitem{Davide}
+D.~{Spadini}, F.~{Palomba}, A.~{Zaidman}, M.~{Bruntink}, and A.~{Bacchelli}.
+\newblock On the relation of test smells to software code quality.
+\newblock In {\em Proceedings of the International Conference on Software
+  Maintenance and Evolution (ICSME)}, pages 1--12, 2018.
+
+\bibitem{Tufano}
+M.~{Tufano}, F.~{Palomba}, G.~{Bavota}, M.~D. {Penta}, R.~{Oliveto}, A.~D.
+  {Lucia}, and D.~{Poshyvanyk}.
+\newblock An empirical investigation into the nature of test smells.
+\newblock In {\em Proceedings of the International Conference on Automated
+  Software Engineering (ASE)}, page 4–15, 2016.
+
+\bibitem{Zhang2017}
+T.~{Zhang} and M.~{Kim}.
+\newblock Automated transplantation and differential testing for clones.
+\newblock In {\em Proceedings of the International Conference on Software
+  Engineering (ICSE)}, pages 665--676, 2017.
+
+\bibitem{tanno}
+丹野 治門, 倉林 利行, 張 暁晶, 伊山 宗吉, 安達 悠, 岩田
+  真治, and 切貫 弘之.
+\newblock テスト入力値生成技術の研究動向.
+\newblock {\em コンピュータ ソフトウェア}, 34(3):121--147, 2017.
+
+\bibitem{c1}
+肥後芳樹, 楠本真二, and 井上 克郎.
+\newblock コードクローン検出とその関連技術.
+\newblock {\em 電子情報通信学会論文誌}, J91--D(6):1465--1481, 2008.
+
+\end{thebibliography}
