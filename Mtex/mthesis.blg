@@ -6,7 +6,7 @@ Database file #1: mthesis.bib
 Warning--empty institution in t1
 You've used 36 entries,
             2118 wiz_defined-function locations,
-            704 strings with 10110 characters,
+            703 strings with 10088 characters,
 and the built_in function-call counts, 15558 in all, are:
 = -- 1502
 > -- 753

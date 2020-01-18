@@ -30,9 +30,9 @@ I.~D. {Baxter}, A.~{Yahin}, L.~{Moura}, M.~{Sant'Anna}, and L.~{Bier}.
   Maintenance (ICSM)}, pages 368--377, 1998.
 
 \bibitem{h1}
-Beck.
+K.~L. {Beck}.
 \newblock {\em Test Driven Development: By Example}.
-\newblock Addison-Wesley Longman Publishing Co., Inc., 2002.
+\newblock Addison-Wesley, 2002.
 
 \bibitem{b14}
 E.~{Daka}, J.~{Campos}, G.~{Fraser}, J.~{Dorn}, and w.~{Weimer}.
@@ -154,18 +154,18 @@ D.~{Rattan}, R.~{Bhatia}, and M.~{Singh}.
 \newblock Software clone detection: A systematic review.
 \newblock {\em Information and Software Technology}, 55:1165–1199, 2013.
 
-\bibitem{c4}
-C.~{Roy}, {Cordy} J, and R.~{Koschke}.
-\newblock Comparison and evaluation of code clone detection techniques and
-  tools: A qualitative approach.
-\newblock {\em Science of Computer Programming}, 74:470--495, 2009.
-
 \bibitem{b2}
 C.~K. {Roy} and J.~R. {Cordy}.
 \newblock Nicad: Accurate detection of near-miss intentional clones using
   flexible pretty-printing and code normalization.
 \newblock In {\em Proceedings of the International Conference on Program
-  Comprehension}, pages 172--181, 2008.
+  Comprehension (ICPC)}, pages 172--181, 2008.
+
+\bibitem{c4}
+C.~K. {Roy}, J.~R. {Cordy}, and R.~{Koschke}.
+\newblock Comparison and evaluation of code clone detection techniques and
+  tools: A qualitative approach.
+\newblock {\em Science of Computer Programming}, 74:470--495, 2009.
 
 \bibitem{SourcererCC}
 H.~{Sajnani}, V.~{Saini}, J.~{Svajlenko}, C.~K. {Roy}, and C.~V. {Lopes}.
