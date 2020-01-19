@@ -993,7 +993,7 @@ RQ5では，15人の被験者によるアンケート結果を代表的な3つ�
 
 
 \begin{description}
-\item[Mean Reciprocal Rank(MRR)]~\\
+\item[Mean Reciprocal Rank (MRR)]~\\
 MRRは推薦リストを上位から確認し，最初に適合した要素の順位を計算に利用したランキング指標である．MRRは0から1の値をとり，すべてのユーザに対して推薦リストの第1番目のアイテムが適合アイテムならば1になる．一方で，正解が一つもリストに含まれない場合は0になる．この指標の特徴として，ランキング上位での順位の差異は指標に大きく影響するが，下位での順位の差異はあまり影響を与えない．
 
 \[
@@ -1029,9 +1029,35 @@ MAPは，AP(Average Precision)の値を対象のユーザ数で平均した値�
 \item $uは各対象ユーザ，Uは全対象ユーザ$
 \end{itemize}
 
+\begin{comment}
+\item[Mean Precision@N (MP@N)]~\\
+MP@Nは，推薦ランキングの上位N番目のPrecision@Nを平均した値である．Precision@Nとは，上位N番目までのユーザが実際に適合したアイテムの内，推薦リストでどれだけカバーできたかの割合である．以下に上位k番目のPrecision@NとMP@Nの式を示す．
 
-\item[Mean Recall@K(MR@K)]~\\
-MR@Kは，推薦ランキングの上位k番目のRecallを平均した値である．Recallとは，ユーザが実際に適合したアイテムのうち，推薦リストでどれだけカバーできたかの割合である．以下に上位k番目のRecallとMR@Kの式を示す．
+\[
+  Precision@N =
+  \frac{|a \cap p_N|}{N}
+\]
+\begin{itemize}
+\item $N：考慮する上位ランキングの数$
+\item $a：ユーザが適合したアイテム集合$
+\item $p_N：TopNの推薦リスト$
+\end{itemize}
+
+\[
+  MP@N =
+  \frac{1}{|U|}\sum_{u\in U} Precision@N(u)
+\]
+\begin{itemize}
+\item $uは各対象ユーザ，Uは全対象ユーザ$
+\end{itemize}
+
+\end{description}
+\end{comment}
+
+
+
+\item[Mean Recall@N (MR@N)]~\\
+MR@Nは，推薦ランキングの上位N番目のRecallを平均した値である．Recall@Nとは，ユーザが実際に適合した上位N番目までのアイテムのうち，推薦リストでどれだけカバーできたかの割合である．以下に上位k番目のRecall@NとMR@Nの式を示す．
 
 \[
   Recall@N =
@@ -1044,7 +1070,7 @@ MR@Kは，推薦ランキングの上位k番目のRecallを平均した値であ
 \end{itemize}
 
 \[
-  MR@K =
+  MR@N =
   \frac{1}{|U|}\sum_{u\in U} Recall@N(u)
 \]
 \begin{itemize}
@@ -1053,7 +1079,9 @@ MR@Kは，推薦ランキングの上位k番目のRecallを平均した値であ
 
 \end{description}
 
+
 \newpage
+
 
 \begin{table}[h]
 \caption{MAPとMRRの評価結果}
@@ -1070,8 +1098,9 @@ MR@Kは，推薦ランキングの上位k番目のRecallを平均した値であ
 \end{table}
 
 
+
 \begin{table}[h]
-\caption{MR@Kの評価結果}
+\caption{MR@Nの評価結果}
 \label{pre}
 \begin{center}
 \begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
@@ -1083,6 +1112,23 @@ Recall-topK & top1 & top3 & top5 & top10 \\ \hline
 \end{tabular}
 \end{center}
 \end{table}
+
+
+\begin{comment}
+\begin{table}[h]
+\caption{MP@Nの評価結果}
+\label{pre}
+\begin{center}
+\begin{tabular}{|p{3cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline \hline
+Precision-topN & top1 & top3 & top5 & top10 \\ \hline
+タスクA & \multicolumn{1}{r|}{73.3\%} & \multicolumn{1}{r|}{82.2\%} & \multicolumn{1}{r|}{85.3\%} & \multicolumn{1}{r|}{45.3\%} \\ \hline
+タスクB & \multicolumn{1}{r|}{100\%} & \multicolumn{1}{r|}{97.8\%} & \multicolumn{1}{r|}{93.3\%} & \multicolumn{1}{r|}{53.3\%} \\ \hline
+合計 & \multicolumn{1}{r|}{86.7\%} & \multicolumn{1}{r|}{90.0\%} & \multicolumn{1}{r|}{89.3\%} & \multicolumn{1}{r|}{49.3\%} \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+\end{comment}
 
 上記の評価指標を基に計算した結果を表\ref{map}，\ref{pre}に示す．
 
