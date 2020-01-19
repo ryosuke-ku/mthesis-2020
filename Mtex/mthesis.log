@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  19 JAN 2020 17:49
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  19 JAN 2020 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -196,17 +196,7 @@ ience and Technology, NAIST
 \hour=\count110
 \onehour=\count111
 \curhour=\count112
-)) (./mthesis.aux
-
-LaTeX Warning: Label `E1' multiply defined.
-
-
-LaTeX Warning: Label `E2' multiply defined.
-
-
-LaTeX Warning: Label `map' multiply defined.
-
-)
+)) (./mthesis.aux)
 \openout1 = `mthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 279.
@@ -234,7 +224,8 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 ] [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 285.
 
- (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -251,11 +242,11 @@ Underfull \hbox (badness 1033) in paragraph at lines 286--286
 ad-u-ate School of Sci-ence and
  []
 
-[3] (./mthesis.toc [4])
+[3] (./mthesis.toc)
 \tf@toc=\write4
 \openout4 = `mthesis.toc'.
 
- [5] (./mthesis.lof)
+ [4] (./mthesis.lof)
 \tf@lof=\write5
 \openout5 = `mthesis.lof'.
 
@@ -263,13 +254,74 @@ ad-u-ate School of Sci-ence and
 \tf@lot=\write6
 \openout6 = `mthesis.lot'.
 
- [6] [7] [1]
-[2]
+ [5]
+
+LaTeX Warning: Citation `tanno' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `b20' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `b19' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `EvoSuite' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `GRT' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `b17' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `T3' on page 1 undefined on input line 301.
+
+
+LaTeX Warning: Citation `EvoSuite' on page 1 undefined on input line 303.
+
+
+LaTeX Warning: Citation `b14' on page 1 undefined on input line 303.
+
+
+LaTeX Warning: Citation `b15' on page 1 undefined on input line 303.
+
+
+LaTeX Warning: Citation `b13' on page 1 undefined on input line 303.
+
+
+LaTeX Warning: Citation `b1' on page 1 undefined on input line 303.
+
+[1] [2]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 317.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 317.
- [3] [4]
+
+
+LaTeX Warning: Citation `c1' on page 3 undefined on input line 319.
+
+
+LaTeX Warning: Citation `c2' on page 3 undefined on input line 319.
+
+
+LaTeX Warning: Citation `c3' on page 3 undefined on input line 319.
+
+
+LaTeX Warning: Citation `c1' on page 3 undefined on input line 319.
+
+
+LaTeX Warning: Citation `c5' on page 3 undefined on input line 322.
+
+
+LaTeX Warning: Citation `c4' on page 3 undefined on input line 322.
+
+
+LaTeX Warning: Citation `c6' on page 3 undefined on input line 332.
+
+
+LaTeX Warning: Citation `c1' on page 3 undefined on input line 332.
+
+[3] [4]
 File: test-task.pdf Graphic file (type pdf)
 <test-task.pdf>
 
@@ -278,6 +330,15 @@ Overfull \hbox (6.44142pt too wide) in paragraph at lines 361--368
  []
 
 [5] [6]
+
+LaTeX Warning: Citation `h1' on page 7 undefined on input line 388.
+
+
+LaTeX Warning: Citation `t1' on page 7 undefined on input line 388.
+
+
+LaTeX Warning: Citation `b6' on page 7 undefined on input line 388.
+
 File: AR.pdf Graphic file (type pdf)
 <AR.pdf>
 
@@ -326,10 +387,43 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 467--468
  [] 
  []
 
-Excluding 'comment' comment. [10] [11] [12] [13]
+Excluding 'comment' comment. [10] [11]
+
+LaTeX Warning: Citation `Bavota' on page 12 undefined on input line 548.
+
+
+LaTeX Warning: Citation `Tufano' on page 12 undefined on input line 550.
+
+
+LaTeX Warning: Citation `Davide' on page 12 undefined on input line 552.
+
+
+LaTeX Warning: Citation `Fabio2016' on page 12 undefined on input line 554.
+
+
+LaTeX Warning: Citation `Machado2010' on page 12 undefined on input line 559.
+
+[12]
+
+LaTeX Warning: Citation `EvoSuite' on page 13 undefined on input line 561.
+
+[13]
 File: SBST.pdf Graphic file (type pdf)
 <SBST.pdf>
- [14] [15]
+
+
+LaTeX Warning: Citation `b14' on page 14 undefined on input line 585.
+
+
+LaTeX Warning: Citation `b15' on page 14 undefined on input line 585.
+
+
+LaTeX Warning: Citation `b13' on page 14 undefined on input line 585.
+
+
+LaTeX Warning: Citation `b1' on page 14 undefined on input line 585.
+
+[14] [15]
 File: SuiteRec-outline.pdf Graphic file (type pdf)
 <SuiteRec-outline.pdf>
 
@@ -337,15 +431,33 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 600--601
  [] 
  []
 
-[16] [17] [18]
-File: mapping.pdf Graphic file (type pdf)
-<mapping.pdf>
+[16]
+
+LaTeX Warning: Citation `b2' on page 17 undefined on input line 622.
+
+[17]
+
+LaTeX Warning: Citation `FaCoY' on page 18 undefined on input line 634.
+
+[18]
+
+LaTeX Warning: Citation `b22' on page 19 undefined on input line 651.
+
+File: pic/mapping.pdf Graphic file (type pdf)
+<pic/mapping.pdf>
 
 Overfull \hbox (14.22638pt too wide) in paragraph at lines 655--656
  [] 
  []
 
-[19] [20]
+
+LaTeX Warning: Citation `Peruma' on page 19 undefined on input line 663.
+
+[19]
+
+LaTeX Warning: Citation `fose2019' on page 20 undefined on input line 678.
+
+[20]
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
 (Font)              using `JT1/mc/m/n' instead on input line 680.
@@ -385,26 +497,34 @@ Overfull \hbox (14.22638pt too wide) in paragraph at lines 812--813
  []
 
 [27] [28] [29] [30] [31]
-File: C0.pdf Graphic file (type pdf)
-<C0.pdf>
-File: C1.pdf Graphic file (type pdf)
-<C1.pdf>
+File: pic/C0.pdf Graphic file (type pdf)
+<pic/C0.pdf>
+File: pic/C1.pdf Graphic file (type pdf)
+<pic/C1.pdf>
  [32] [33]
-File: time.pdf Graphic file (type pdf)
-<time.pdf>
- [34]
-File: smells.pdf Graphic file (type pdf)
-<smells.pdf>
- [35] [36]
+File: pic/time.pdf Graphic file (type pdf)
+<pic/time.pdf>
+
+
+LaTeX Warning: Citation `Peruma' on page 34 undefined on input line 904.
+
+[34]
+File: pic/smells.pdf Graphic file (type pdf)
+<pic/smells.pdf>
+ [35]
+
+LaTeX Warning: Reference `QA' on page 36 undefined on input line 922.
+
+[36]
 File: suiterec-expt.pdf Graphic file (type pdf)
 <suiterec-expt.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 933--934
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 932--933
  [] 
  []
 
 [37]
-Overfull \hbox (7.7421pt too wide) in paragraph at lines 948--949
+Overfull \hbox (7.7421pt too wide) in paragraph at lines 947--948
 []
  []
 
@@ -415,7 +535,34 @@ File: taskA.pdf Graphic file (type pdf)
 File: taskB.pdf Graphic file (type pdf)
 <taskB.pdf>
  [40] [41] Excluding 'comment' comment. [42]
-Excluding 'comment' comment. [43] [44] [45] [46] [47] [48] [49] (./mthesis.bbl
+Excluding 'comment' comment.
+
+LaTeX Warning: Reference `pre' on page 43 undefined on input line 1150.
+
+[43] [44]
+
+LaTeX Warning: Citation `SourcererCC' on page 45 undefined on input line 1179.
+
+
+LaTeX Warning: Citation `FaCoY' on page 45 undefined on input line 1179.
+
+[45] [46]
+
+LaTeX Warning: Citation `Zhang2017' on page 47 undefined on input line 1192.
+
+
+LaTeX Warning: Citation `Jiang2007' on page 47 undefined on input line 1192.
+
+
+LaTeX Warning: Citation `skipper' on page 47 undefined on input line 1194.
+
+
+LaTeX Warning: Citation `gilligan10' on page 47 undefined on input line 1194.
+
+
+LaTeX Warning: Citation `gilligan34' on page 47 undefined on input line 1194.
+
+[47] [48] [49] (./mthesis.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 (Font)              using `JT1/gt/m/n' instead on input line 7.
@@ -429,16 +576,19 @@ LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2421 strings out of 493230
- 28681 string characters out of 6147555
- 112066 words of memory out of 5000000
+ 2418 strings out of 493230
+ 28600 string characters out of 6147555
+ 111019 words of memory out of 5000000
  6336 multiletter control sequences out of 15000+600000
  17071 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  29i,11n,35p,1434b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (64 pages, 175480 bytes).
+Output written on mthesis.dvi (62 pages, 161668 bytes).
