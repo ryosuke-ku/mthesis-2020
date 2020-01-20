@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  19 JAN 2020 23:12
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  20 JAN 2020 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,15 +396,15 @@ File: pic/time.pdf Graphic file (type pdf)
 File: pic/smells.pdf Graphic file (type pdf)
 <pic/smells.pdf>
  [35] [36]
-File: suiterec-expt.pdf Graphic file (type pdf)
-<suiterec-expt.pdf>
+File: pic/suiterec-expt.pdf Graphic file (type pdf)
+<pic/suiterec-expt.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 932--933
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 933--934
  [] 
  []
 
 [37]
-Overfull \hbox (7.7421pt too wide) in paragraph at lines 947--948
+Overfull \hbox (7.7421pt too wide) in paragraph at lines 948--949
 []
  []
 
@@ -414,8 +414,8 @@ File: taskA.pdf Graphic file (type pdf)
  [39]
 File: taskB.pdf Graphic file (type pdf)
 <taskB.pdf>
- [40] [41] Excluding 'comment' comment. [42]
-Excluding 'comment' comment. [43] [44] [45] [46] [47] [48] [49] (./mthesis.bbl
+ [40] [41] Excluding 'comment' comment. [42] [43]
+Excluding 'comment' comment. [44] [45] [46] [47] [48] [49] [50] (./mthesis.bbl
 
 LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 (Font)              using `JT1/gt/m/n' instead on input line 7.
@@ -424,7 +424,7 @@ LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
 LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
 (Font)              using `JY1/gt/m/n' instead on input line 7.
 
-[50] [51] [52] [53]) [54] [55] (./mthesis.aux)
+[51] [52] [53] [54]) [55] [56] (./mthesis.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -433,12 +433,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2418 strings out of 493230
- 28600 string characters out of 6147555
+ 2417 strings out of 493230
+ 28568 string characters out of 6147555
  112066 words of memory out of 5000000
  6336 multiletter control sequences out of 15000+600000
  17071 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  29i,11n,35p,1434b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (64 pages, 175500 bytes).
+Output written on mthesis.dvi (65 pages, 175668 bytes).
