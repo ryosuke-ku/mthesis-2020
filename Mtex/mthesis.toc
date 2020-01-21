@@ -5,7 +5,7 @@
 \contentsline {subsubsection}{\numberline {2.1.2}コードクローン検出技術}{3}% 
 \contentsline {subsection}{\numberline {2.2}ソフトウェアテスト}{4}% 
 \contentsline {subsubsection}{\numberline {2.2.1}テストの種類}{5}% 
-\contentsline {subsubsection}{\numberline {2.2.2}テストコードの品質}{7}% 
+\contentsline {subsubsection}{\numberline {2.2.2}テストスメル}{7}% 
 \contentsline {subsubsection}{\numberline {2.2.3}テストコード自動生成技術}{12}% 
 \contentsline {subsubsection}{\numberline {2.2.4}既存の自動生成ツールにおける課題}{14}% 
 \contentsline {section}{\numberline {3.}SuiteRec: テストコード自動推薦ツール}{16}% 
