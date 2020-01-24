@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  23 JAN 2020 23:19
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  24 JAN 2020 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,12 +395,12 @@ File: pic/smells.pdf Graphic file (type pdf)
 File: pic/suiterec-expt.pdf Graphic file (type pdf)
 <pic/suiterec-expt.pdf>
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 879--880
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 881--882
  [] 
  []
 
 [37]
-Overfull \hbox (7.7421pt too wide) in paragraph at lines 894--895
+Overfull \hbox (7.7421pt too wide) in paragraph at lines 896--897
 []
  []
 
@@ -438,4 +438,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  29i,11n,35p,1620b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (66 pages, 181344 bytes).
+Output written on mthesis.dvi (66 pages, 181672 bytes).
