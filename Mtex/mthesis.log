@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  26 JAN 2020 12:33
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  26 JAN 2020 12:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -231,4 +231,215 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 284.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)      
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 284.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 284.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 284.
+ [1] [2]
+Underfull \hbox (badness 1033) in paragraph at lines 285--285
+[][]\OT1/cmr/m/n/10 Master's The-sis, Di-vi-sion of In-for-ma-tion Sci-ence, Gr
+ad-u-ate School of Sci-ence and
+ []
+
+[3] [4] (./mthesis.toc [5])
+\tf@toc=\write4
+\openout4 = `mthesis.toc'.
+
+ [6] (./mthesis.lof)
+\tf@lof=\write5
+\openout5 = `mthesis.lof'.
+
+ (./mthesis.lot)
+\tf@lot=\write6
+\openout6 = `mthesis.lot'.
+
+ [7] [8]
+[1] [2]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 313.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 313.
+ [3] [4]
+File: image/test-task.pdf Graphic file (type pdf)
+<image/test-task.pdf>
+
+Overfull \hbox (6.44142pt too wide) in paragraph at lines 357--364
+[][] 
+ []
+
+[5] [6] [7]
+File: image/AR.pdf Graphic file (type pdf)
+<image/AR.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 409--410
+ [] 
+ []
+
+File: image/DT.pdf Graphic file (type pdf)
+<image/DT.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 421--422
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8] [9]
+File: image/CTL.pdf Graphic file (type pdf)
+<image/CTL.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 445--446
+ [] 
+ []
+
+File: image/ET.pdf Graphic file (type pdf)
+<image/ET.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 453--454
+ [] 
+ []
+
+File: image/EH.pdf Graphic file (type pdf)
+<image/EH.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 461--462
+ [] 
+ []
+
+File: image/MG.pdf Graphic file (type pdf)
+<image/MG.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 469--470
+ [] 
+ []
+
+Excluding 'comment' comment. [10] [11] [12]
+File: image/SBST.pdf Graphic file (type pdf)
+<image/SBST.pdf>
+ [13] [14]
+File: image/SuiteRec-outline.pdf Graphic file (type pdf)
+<image/SuiteRec-outline.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 535--536
+ [] 
+ []
+
+[15] [16] [17] [18]
+File: image/mapping.pdf Graphic file (type pdf)
+<image/mapping.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 595--596
+ [] 
+ []
+
+[19]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 620.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 620.
+
+[20]
+File: image/SuiteRec.pdf Graphic file (type pdf)
+<image/SuiteRec.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 633--634
+ [] 
+ []
+
+[21] [22] [23]
+Overfull \hbox (21.23753pt too wide) in paragraph at lines 673--674
+[]
+ []
+
+[24]
+Overfull \hbox (44.3307pt too wide) in paragraph at lines 675--676
+[]
+ []
+
+[25]
+File: image/E1.pdf Graphic file (type pdf)
+<image/E1.pdf>
+File: image/E2.pdf Graphic file (type pdf)
+<image/E2.pdf>
+ [26]
+File: image/E3.pdf Graphic file (type pdf)
+<image/E3.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 753--754
+ [] 
+ []
+
+[27] [28] [29] [30] [31]
+File: image/C0.pdf Graphic file (type pdf)
+<image/C0.pdf>
+File: image/C1.pdf Graphic file (type pdf)
+<image/C1.pdf>
+ [32] [33]
+File: image/time.pdf Graphic file (type pdf)
+<image/time.pdf>
+ [34]
+File: image/smells.pdf Graphic file (type pdf)
+<image/smells.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35] [36]
+File: image/suiterec-expt.pdf Graphic file (type pdf)
+<image/suiterec-expt.pdf>
+
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 876--877
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37]
+Overfull \hbox (7.7421pt too wide) in paragraph at lines 895--896
+[]
+ []
+
+[38]
+File: image/taskA.pdf Graphic file (type pdf)
+<image/taskA.pdf>
+ [39]
+File: image/taskB.pdf Graphic file (type pdf)
+<image/taskB.pdf>
+ [40] [41] [42] Excluding 'comment' comment.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Excluding 'comment' comment.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43] [44] [45] [46] [47] [48] [49] [50] [51] [52] (./mthesis.bbl
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 7.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 7.
+
+[53] [54] [55] [56]) [57] [58] (./mthesis.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2409 strings out of 493230
+ 28387 string characters out of 6147555
+ 115710 words of memory out of 5000000
+ 6343 multiletter control sequences out of 15000+600000
+ 17071 words of font info for 67 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 29i,11n,35p,1620b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on mthesis.dvi (68 pages, 182428 bytes).
