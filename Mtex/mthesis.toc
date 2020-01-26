@@ -34,6 +34,3 @@
 \contentsline {section}{\numberline {7.}まとめと今後の課題}{50}% 
 \contentsline {section}{謝辞}{51}% 
 \contentsline {section}{参考文献}{53}% 
-\contentsline {section}{付録}{58}% 
-\contentsline {section}{\numberline {A.}おまけその１}{58}% 
-\contentsline {section}{\numberline {B.}おまけその２}{58}% 
