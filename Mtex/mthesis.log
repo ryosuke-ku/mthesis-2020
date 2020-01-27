@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  27 JAN 2020 15:50
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  27 JAN 2020 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,10 +433,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  2412 strings out of 493230
  28439 string characters out of 6147555
- 115759 words of memory out of 5000000
+ 115761 words of memory out of 5000000
  6346 multiletter control sequences out of 15000+600000
  17071 words of font info for 67 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 29i,11n,35p,1646b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,11n,35p,1647b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on mthesis.dvi (66 pages, 183168 bytes).
+Output written on mthesis.dvi (66 pages, 183176 bytes).
