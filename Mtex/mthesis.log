@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  27 JAN 2020 12:15
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2019.9.17)  27 JAN 2020 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -196,8 +196,7 @@ ience and Technology, NAIST
 \hour=\count110
 \onehour=\count111
 \curhour=\count112
-))
-No file mthesis.aux.
+)) (./mthesis.aux)
 \openout1 = `mthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 278.
@@ -220,180 +219,16 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 282.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 282.
-[1
+ [1
 
 ] [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 284.
 
- (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 284.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 284.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 284.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 284.
- [1] [2]
-Underfull \hbox (badness 1033) in paragraph at lines 285--285
-[][]\OT1/cmr/m/n/10 Master's The-sis, Di-vi-sion of In-for-ma-tion Sci-ence, Gr
-ad-u-ate School of Sci-ence and
- []
-
-[3] [4]
-No file mthesis.toc.
-\tf@toc=\write4
-\openout4 = `mthesis.toc'.
-
-[5]
-No file mthesis.lof.
-\tf@lof=\write5
-\openout5 = `mthesis.lof'.
-
-No file mthesis.lot.
-\tf@lot=\write6
-\openout6 = `mthesis.lot'.
-
-[6]
-
-LaTeX Warning: Citation `tanno' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `b20' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `b19' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `EvoSuite' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `GRT' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `b17' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `T3' on page 1 undefined on input line 300.
-
-
-LaTeX Warning: Citation `EvoSuite' on page 1 undefined on input line 302.
-
-
-LaTeX Warning: Citation `b14' on page 1 undefined on input line 302.
-
-
-LaTeX Warning: Citation `b15' on page 1 undefined on input line 302.
-
-
-LaTeX Warning: Citation `b13' on page 1 undefined on input line 302.
-
-
-LaTeX Warning: Citation `b1' on page 1 undefined on input line 302.
-
-[1] [2]
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 313.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 313.
-
-
-LaTeX Warning: Citation `c1' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `c2' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `c3' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `c1' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `gilligan10' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `gilligan34' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `skipper' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `Zhang2017' on page 3 undefined on input line 315.
-
-
-LaTeX Warning: Citation `c5' on page 3 undefined on input line 318.
-
-
-LaTeX Warning: Citation `c4' on page 3 undefined on input line 318.
-
-
-LaTeX Warning: Citation `c6' on page 3 undefined on input line 328.
-
-
-LaTeX Warning: Citation `c1' on page 3 undefined on input line 328.
-
-[3]
-
-LaTeX Warning: Reference `testtask' on page 4 undefined on input line 340.
-
-[4]
-File: image/test-task.pdf Graphic file (type pdf)
-<image/test-task.pdf>
-
-
-LaTeX Warning: Reference `test-variety' on page 5 undefined on input line 352.
-
-
-Overfull \hbox (6.44142pt too wide) in paragraph at lines 357--364
-[][] 
- []
-
-[5] [6]
-
-LaTeX Warning: Citation `h1' on page 7 undefined on input line 386.
-
-
-LaTeX Warning: Citation `t1' on page 7 undefined on input line 386.
-
-
-LaTeX Warning: Citation `b6' on page 7 undefined on input line 386.
-
-
-LaTeX Warning: Citation `Bavota' on page 7 undefined on input line 388.
-
-
-LaTeX Warning: Citation `Tufano' on page 7 undefined on input line 388.
-
-
-LaTeX Warning: Citation `Davide' on page 7 undefined on input line 388.
-
-[7]
-
-LaTeX Warning: Reference `AR' on page 8 undefined on input line 405.
-
-File: image/AR.pdf Graphic file (type pdf)
-<image/AR.pdf>
-
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 409--410
- [] 
- []
-
-
-LaTeX Warning: Reference `DT' on page 8 undefined on input line 416.
-
-File: image/DT.pdf Graphic file (type pdf)
-<image/DT.pdf>
-
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 421--422
- [] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8]
-
-LaTeX Warning: Reference `CTL' on page 9 undefined
+(Font)      
