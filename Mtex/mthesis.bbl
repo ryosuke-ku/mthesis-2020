@@ -35,7 +35,7 @@ K.~L. {Beck}.
 \newblock Addison-Wesley, 2002.
 
 \bibitem{b14}
-E.~{Daka}, J.~{Campos}, G.~{Fraser}, J.~{Dorn}, and w.~{Weimer}.
+E.~{Daka}, J.~{Campos}, G.~{Fraser}, J.~{Dorn}, and W.~{Weimer}.
 \newblock Modeling readability to improve unit tests.
 \newblock In {\em Proceedings of the Joint Meeting on Foundations of Software
   Engineering (ESEC/FSE)}, pages 107--118, 2015.
@@ -214,7 +214,7 @@ T.~{Zhang} and M.~{Kim}.
 \newblock {\em コンピュータ ソフトウェア}, 34(3):121--147, 2017.
 
 \bibitem{c1}
-肥後芳樹, 楠本真二, 井上 克郎.
+肥後 芳樹, 楠本 真二, 井上 克郎.
 \newblock コードクローン検出とその関連技術.
 \newblock {\em 電子情報通信学会論文誌}, J91--D(6):1465--1481, 2008.
 
